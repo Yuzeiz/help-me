@@ -1,0 +1,2387 @@
+2026-10-05 11:25:54,973 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:25:54,976 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:25:55,051 [INFO] LCD display controller ready: /display
+2026-10-05 11:25:55,051 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:25:55,103 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:25:55,104 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:25:56,314 [INFO] 127.0.0.1 - - [05/Oct/2026 11:25:56] "GET / HTTP/1.1" 200 -
+2026-10-05 11:25:56,838 [INFO] 127.0.0.1 - - [05/Oct/2026 11:25:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:25:57,118 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:25:57,122 [INFO] 127.0.0.1 - - [05/Oct/2026 11:25:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:25:59,129 [WARNING] display loop: no reply
+2026-10-05 11:26:00,817 [INFO] 127.0.0.1 - - [05/Oct/2026 11:26:00] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:26:02,272 [WARNING] display loop: no reply
+2026-10-05 11:28:01,947 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:28:01,948 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:28:01,984 [INFO] LCD display controller ready: /display
+2026-10-05 11:28:01,984 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:28:02,007 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:28:02,007 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:28:04,034 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:28:06,047 [WARNING] display loop: no reply
+2026-10-05 11:28:07,279 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:07] "GET / HTTP/1.1" 200 -
+2026-10-05 11:28:07,490 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:07,838 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:28:09,185 [WARNING] display loop: no reply
+2026-10-05 11:28:11,797 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:12,326 [WARNING] display loop: no reply
+2026-10-05 11:28:15,481 [WARNING] display loop: no reply
+2026-10-05 11:28:15,491 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:18,610 [WARNING] display loop: no reply
+2026-10-05 11:28:36,468 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:28:36,469 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:28:36,503 [INFO] LCD display controller ready: /display
+2026-10-05 11:28:36,503 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:28:36,533 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:28:36,534 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:28:38,553 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:28:40,602 [WARNING] display loop: no reply
+2026-10-05 11:28:40,724 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:40] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 11:28:41,045 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:41,496 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:28:43,736 [WARNING] display loop: no reply
+2026-10-05 11:28:45,336 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:46,875 [WARNING] display loop: no reply
+2026-10-05 11:28:49,687 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:50,018 [WARNING] display loop: no reply
+2026-10-05 11:28:53,161 [WARNING] display loop: no reply
+2026-10-05 11:28:53,997 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:56,302 [WARNING] display loop: no reply
+2026-10-05 11:28:57,693 [INFO] 127.0.0.1 - - [05/Oct/2026 11:28:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:28:59,438 [WARNING] display loop: no reply
+2026-10-05 11:29:01,992 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:02,576 [WARNING] display loop: no reply
+2026-10-05 11:29:05,028 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:05,706 [WARNING] display loop: no reply
+2026-10-05 11:29:08,844 [WARNING] display loop: no reply
+2026-10-05 11:29:16,695 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:29:16,698 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:29:16,803 [INFO] LCD display controller ready: /display
+2026-10-05 11:29:16,804 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:29:16,857 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:29:16,858 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:29:18,886 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:29:19,047 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:19] "GET / HTTP/1.1" 200 -
+2026-10-05 11:29:19,254 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:19,609 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:29:20,901 [WARNING] display loop: no reply
+2026-10-05 11:29:23,577 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:24,042 [WARNING] display loop: no reply
+2026-10-05 11:29:27,174 [WARNING] display loop: no reply
+2026-10-05 11:29:27,256 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:30,318 [WARNING] display loop: no reply
+2026-10-05 11:29:32,010 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:33,449 [WARNING] display loop: no reply
+2026-10-05 11:29:35,688 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:36,581 [WARNING] display loop: no reply
+2026-10-05 11:29:39,721 [WARNING] display loop: no reply
+2026-10-05 11:29:39,992 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:42,851 [WARNING] display loop: no reply
+2026-10-05 11:29:43,698 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:43] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:45,989 [WARNING] display loop: no reply
+2026-10-05 11:29:47,576 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:47] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:49,126 [WARNING] display loop: no reply
+2026-10-05 11:29:51,259 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:51] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:52,267 [WARNING] display loop: no reply
+2026-10-05 11:29:55,398 [WARNING] display loop: no reply
+2026-10-05 11:29:55,570 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:29:58,538 [WARNING] display loop: no reply
+2026-10-05 11:29:59,255 [INFO] 127.0.0.1 - - [05/Oct/2026 11:29:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:01,669 [WARNING] display loop: no reply
+2026-10-05 11:30:03,577 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:04,797 [WARNING] display loop: no reply
+2026-10-05 11:30:05,295 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:05] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:30:05,338 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:05,641 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:05] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:05,644 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:05] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:05,656 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:05] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:07,566 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:07,925 [WARNING] display loop: no reply
+2026-10-05 11:30:11,054 [WARNING] display loop: no reply
+2026-10-05 11:30:11,256 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:12,196 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:12,198 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:12,204 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:12,209 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:12,273 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 11:30:12,278 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:12] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 11:30:14,184 [WARNING] display loop: no reply
+2026-10-05 11:30:15,566 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:17,313 [WARNING] display loop: no reply
+2026-10-05 11:30:19,260 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:20,441 [WARNING] display loop: no reply
+2026-10-05 11:30:22,572 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:22] "POST /ai/configure HTTP/1.1" 200 -
+2026-10-05 11:30:22,809 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:22] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 11:30:22,922 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:22] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 11:30:22,951 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:22] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:23,256 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:23,257 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:23] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:23,264 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:23] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:23,566 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:23,571 [WARNING] display loop: no reply
+2026-10-05 11:30:26,699 [WARNING] display loop: no reply
+2026-10-05 11:30:27,498 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:28,191 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:28] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:30:28,233 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:28] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:28,536 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:28] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:28,539 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:28] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:28,548 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:28] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:29,828 [WARNING] display loop: no reply
+2026-10-05 11:30:31,574 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:31] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:32,956 [WARNING] display loop: no reply
+2026-10-05 11:30:33,248 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:33,570 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 11:30:33,575 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:33,564 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:33,573 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:33,578 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:33] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 11:30:35,560 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:36,086 [WARNING] display loop: no reply
+2026-10-05 11:30:39,215 [WARNING] display loop: no reply
+2026-10-05 11:30:39,260 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:42,353 [WARNING] display loop: no reply
+2026-10-05 11:30:43,576 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:43] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:45,485 [WARNING] display loop: no reply
+2026-10-05 11:30:47,569 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:47] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:48,626 [WARNING] display loop: no reply
+2026-10-05 11:30:50,460 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:50] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 11:30:51,257 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:51] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:51,757 [WARNING] display loop: no reply
+2026-10-05 11:30:52,667 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:52] "POST /ai/voice-stream HTTP/1.1" 200 -
+2026-10-05 11:30:53,094 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:30:54,825 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:54] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:30:54,885 [WARNING] display loop: no reply
+2026-10-05 11:30:55,128 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:55,130 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:55] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:30:55,131 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:55] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:30:55,556 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:30:58,013 [WARNING] display loop: no reply
+2026-10-05 11:30:59,252 [INFO] 127.0.0.1 - - [05/Oct/2026 11:30:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:01,139 [WARNING] display loop: no reply
+2026-10-05 11:31:03,560 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:04,268 [WARNING] display loop: no reply
+2026-10-05 11:31:07,258 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:07,396 [WARNING] display loop: no reply
+2026-10-05 11:31:10,525 [WARNING] display loop: no reply
+2026-10-05 11:31:11,557 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:13,652 [WARNING] display loop: no reply
+2026-10-05 11:31:15,254 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:16,779 [WARNING] display loop: no reply
+2026-10-05 11:31:19,558 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:19,905 [WARNING] display loop: no reply
+2026-10-05 11:31:23,034 [WARNING] display loop: no reply
+2026-10-05 11:31:23,253 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:26,173 [WARNING] display loop: no reply
+2026-10-05 11:31:27,564 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:29,306 [WARNING] display loop: no reply
+2026-10-05 11:31:31,253 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:31] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:32,446 [WARNING] display loop: no reply
+2026-10-05 11:31:35,321 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:35,575 [WARNING] display loop: no reply
+2026-10-05 11:31:37,588 [INFO] SENT: FIRE 1 12000 80  -> REPLY: (no reply)
+2026-10-05 11:31:39,253 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:31:39,596 [WARNING] display loop: no reply
+2026-10-05 11:31:41,606 [INFO] SENT: STOPALL  -> REPLY: (no reply)
+2026-10-05 11:31:41,607 [ERROR] AI drink pour failed after pumps []: pump 1 did not start: no Arduino reply
+2026-10-05 11:31:41,608 [INFO] 127.0.0.1 - - [05/Oct/2026 11:31:41] "[35m[1mPOST /ai/dispense HTTP/1.1[0m" 503 -
+2026-10-05 11:31:43,614 [WARNING] display loop: no reply
+2026-10-05 11:32:04,275 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:32:04,276 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:32:04,345 [INFO] LCD display controller ready: /display
+2026-10-05 11:32:04,346 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:32:04,389 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:32:04,390 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:32:06,404 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:32:08,275 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:08] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 11:32:08,419 [WARNING] display loop: no reply
+2026-10-05 11:32:08,998 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:09,315 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:32:11,548 [WARNING] display loop: no reply
+2026-10-05 11:32:13,082 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:14,694 [WARNING] display loop: no reply
+2026-10-05 11:32:16,765 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:16] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:17,830 [WARNING] display loop: no reply
+2026-10-05 11:32:20,763 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:20] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:20,958 [WARNING] display loop: no reply
+2026-10-05 11:32:22,735 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:32:22,738 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:22] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:32:23,079 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:23] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:32:23,083 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:23,095 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:23] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:32:23,112 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:23] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:32:24,086 [WARNING] display loop: no reply
+2026-10-05 11:32:24,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:24] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:27,215 [WARNING] display loop: no reply
+2026-10-05 11:32:27,717 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:32:27,722 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:27,728 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 11:32:27,731 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:32:27,733 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 11:32:27,736 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:27] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:32:29,157 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:30,343 [WARNING] display loop: no reply
+2026-10-05 11:32:32,766 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:33,474 [WARNING] display loop: no reply
+2026-10-05 11:32:34,606 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:32:34,609 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:34] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:32:34,638 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:34] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:32:34,944 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:34,947 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:34] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:32:34,958 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:34] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:32:36,603 [WARNING] display loop: no reply
+2026-10-05 11:32:37,070 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:39,733 [WARNING] display loop: no reply
+2026-10-05 11:32:39,882 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:39] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:32:40,244 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:40,240 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:40] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:32:40,253 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:40] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:32:40,266 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:40] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:32:40,765 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:42,861 [WARNING] display loop: no reply
+2026-10-05 11:32:44,763 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:44] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:45,990 [WARNING] display loop: no reply
+2026-10-05 11:32:49,075 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:49,119 [WARNING] display loop: no reply
+2026-10-05 11:32:52,249 [WARNING] display loop: no reply
+2026-10-05 11:32:53,076 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:55,377 [WARNING] display loop: no reply
+2026-10-05 11:32:57,077 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:57,774 [WARNING] Groq connection failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>
+2026-10-05 11:32:57,778 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:57] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:32:58,132 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:58] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:32:58,142 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:32:58,137 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:58] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:32:58,145 [INFO] 127.0.0.1 - - [05/Oct/2026 11:32:58] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:32:58,513 [WARNING] display loop: no reply
+2026-10-05 11:33:00,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:00] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:01,649 [WARNING] display loop: no reply
+2026-10-05 11:33:02,520 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:33:02,525 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:02] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:33:02,549 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:02] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:02,870 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:02,878 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:02] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:02,875 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:02] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:04,808 [WARNING] display loop: no reply
+2026-10-05 11:33:05,078 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:07,952 [WARNING] display loop: no reply
+2026-10-05 11:33:08,607 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:33:08,611 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:08] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:33:08,950 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:08] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:08,955 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:08,957 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:08] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:08,962 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:08] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:09,213 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:11,093 [WARNING] display loop: no reply
+2026-10-05 11:33:12,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:12] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:14,231 [WARNING] display loop: no reply
+2026-10-05 11:33:15,478 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:33:15,481 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:15] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:33:15,510 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:15] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:15,826 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:15,833 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:15] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:15,830 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:15] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:17,077 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:17,364 [WARNING] display loop: no reply
+2026-10-05 11:33:20,495 [WARNING] display loop: no reply
+2026-10-05 11:33:20,767 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:20] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:23,637 [WARNING] display loop: no reply
+2026-10-05 11:33:25,078 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:26,768 [WARNING] display loop: no reply
+2026-10-05 11:33:28,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:28] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:29,908 [WARNING] display loop: no reply
+2026-10-05 11:33:33,038 [WARNING] display loop: no reply
+2026-10-05 11:33:33,077 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:36,179 [WARNING] display loop: no reply
+2026-10-05 11:33:37,075 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:39,315 [WARNING] display loop: no reply
+2026-10-05 11:33:40,555 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:33:40,559 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:40] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:33:40,905 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:40] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:40,912 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:40] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:40,916 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:40] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:40,909 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:41,146 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:42,458 [WARNING] display loop: no reply
+2026-10-05 11:33:44,763 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:44] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:45,593 [WARNING] display loop: no reply
+2026-10-05 11:33:48,726 [WARNING] display loop: no reply
+2026-10-05 11:33:49,083 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:50,293 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:50] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:33:50,631 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:50] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:50,635 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:50] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:50,640 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:50,644 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:50] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:51,855 [WARNING] display loop: no reply
+2026-10-05 11:33:52,763 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:52] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:54,985 [WARNING] display loop: no reply
+2026-10-05 11:33:56,763 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:56] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:56,994 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:56] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:33:57,340 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:57] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:33:57,350 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:57] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:33:57,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:33:57,356 [INFO] 127.0.0.1 - - [05/Oct/2026 11:33:57] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:33:58,118 [WARNING] display loop: no reply
+2026-10-05 11:34:01,078 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:01,256 [WARNING] display loop: no reply
+2026-10-05 11:34:01,514 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:34:01,517 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:34:01,873 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:34:01,878 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:01,881 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:34:01,885 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:01] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:34:04,397 [WARNING] display loop: no reply
+2026-10-05 11:34:04,767 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:04] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:07,527 [WARNING] display loop: no reply
+2026-10-05 11:34:08,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:08,966 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:08] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 11:34:09,318 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:09] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:34:09,324 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:09,328 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:09] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:34:09,331 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:09] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:34:10,659 [WARNING] display loop: no reply
+2026-10-05 11:34:12,765 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:12] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:13,801 [WARNING] display loop: no reply
+2026-10-05 11:34:16,944 [WARNING] display loop: no reply
+2026-10-05 11:34:17,075 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:20,073 [WARNING] display loop: no reply
+2026-10-05 11:34:20,764 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:20] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:23,203 [WARNING] display loop: no reply
+2026-10-05 11:34:25,100 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:26,345 [WARNING] display loop: no reply
+2026-10-05 11:34:29,071 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:29,400 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:34:29,402 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:34:29,476 [WARNING] display loop: no reply
+2026-10-05 11:34:29,735 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:34:29,741 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:34:29,747 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:34:29,751 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:32,615 [WARNING] display loop: no reply
+2026-10-05 11:34:32,771 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:35,743 [WARNING] display loop: no reply
+2026-10-05 11:34:56,415 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:34:56,416 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:34:56,460 [INFO] LCD display controller ready: /display
+2026-10-05 11:34:56,460 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:34:56,497 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:34:56,497 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:34:58,518 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:34:58,867 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:58] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 11:34:59,046 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:34:59,368 [INFO] 127.0.0.1 - - [05/Oct/2026 11:34:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:35:00,521 [WARNING] display loop: no reply
+2026-10-05 11:35:03,345 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:03,663 [WARNING] display loop: no reply
+2026-10-05 11:35:06,795 [WARNING] display loop: no reply
+2026-10-05 11:35:07,031 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:09,937 [WARNING] display loop: no reply
+2026-10-05 11:35:11,337 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:13,070 [WARNING] display loop: no reply
+2026-10-05 11:35:15,331 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:16,199 [WARNING] display loop: no reply
+2026-10-05 11:35:16,921 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:35:16,926 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:16] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:35:17,262 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:17] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:35:17,269 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:17,287 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:17] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:35:17,292 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:17] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:35:18,864 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:35:18,867 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:18] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 11:35:19,201 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:19] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:35:19,207 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:19,215 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:19] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:35:19,228 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:19] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:35:19,328 [WARNING] display loop: no reply
+2026-10-05 11:35:19,455 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:22,457 [WARNING] display loop: no reply
+2026-10-05 11:35:23,030 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:25,587 [WARNING] display loop: no reply
+2026-10-05 11:35:27,027 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:27,979 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:35:27,982 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:27] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:35:28,315 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:28] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:35:28,322 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:28] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:28,332 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:28] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:35:28,342 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:28] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:35:28,716 [WARNING] display loop: no reply
+2026-10-05 11:35:31,030 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:31] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:31,845 [WARNING] display loop: no reply
+2026-10-05 11:35:34,973 [WARNING] display loop: no reply
+2026-10-05 11:35:35,331 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:35:38,102 [WARNING] display loop: no reply
+2026-10-05 11:35:39,029 [INFO] 127.0.0.1 - - [05/Oct/2026 11:35:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:33,877 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:39:33,878 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:39:33,917 [INFO] LCD display controller ready: /display
+2026-10-05 11:39:33,917 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:39:33,950 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:39:33,950 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:39:35,965 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:39:37,291 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:37] "GET / HTTP/1.1" 200 -
+2026-10-05 11:39:37,570 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:37,974 [WARNING] display loop: no reply
+2026-10-05 11:39:41,108 [WARNING] display loop: no reply
+2026-10-05 11:39:41,896 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:44,253 [WARNING] display loop: no reply
+2026-10-05 11:39:45,585 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:47,382 [WARNING] display loop: no reply
+2026-10-05 11:39:48,584 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:48] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 11:39:49,882 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:49,918 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:39:49,920 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:49] "[35m[1mPOST /ai/voice-stream HTTP/1.1[0m" 502 -
+2026-10-05 11:39:50,256 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:39:50,264 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:39:50,260 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:50,267 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:39:50,504 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:39:50,511 [WARNING] display loop: no reply
+2026-10-05 11:39:50,621 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:50,624 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:39:50,628 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:50] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:39:53,572 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:53,640 [WARNING] display loop: no reply
+2026-10-05 11:39:55,730 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:56,768 [WARNING] display loop: no reply
+2026-10-05 11:39:57,572 [INFO] 127.0.0.1 - - [05/Oct/2026 11:39:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:39:59,896 [WARNING] display loop: no reply
+2026-10-05 11:40:01,882 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:03,024 [WARNING] display loop: no reply
+2026-10-05 11:40:05,027 [INFO] SENT: FIRE 1 12000 80  -> REPLY: (no reply)
+2026-10-05 11:40:05,883 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:07,028 [WARNING] display loop: no reply
+2026-10-05 11:40:09,031 [INFO] SENT: STOPALL  -> REPLY: (no reply)
+2026-10-05 11:40:09,032 [ERROR] AI drink pour failed after pumps []: pump 1 did not start: no Arduino reply
+2026-10-05 11:40:09,034 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:09] "[35m[1mPOST /ai/dispense HTTP/1.1[0m" 503 -
+2026-10-05 11:40:26,263 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:40:26,264 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:40:26,308 [INFO] LCD display controller ready: /display
+2026-10-05 11:40:26,309 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:40:26,335 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:40:26,355 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:40:28,357 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:40:30,036 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:30] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 11:40:30,206 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:30,369 [WARNING] display loop: no reply
+2026-10-05 11:40:30,532 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:40:33,264 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:40:33,270 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:33,272 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:40:33,274 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:40:33,503 [WARNING] display loop: no reply
+2026-10-05 11:40:33,958 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 11:40:33,971 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:33] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 11:40:34,502 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:36,644 [WARNING] display loop: no reply
+2026-10-05 11:40:38,177 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:39,780 [WARNING] display loop: no reply
+2026-10-05 11:40:42,491 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:42,910 [WARNING] display loop: no reply
+2026-10-05 11:40:46,047 [WARNING] display loop: no reply
+2026-10-05 11:40:46,180 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:49,177 [WARNING] display loop: no reply
+2026-10-05 11:40:50,491 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:52,309 [WARNING] display loop: no reply
+2026-10-05 11:40:54,180 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:55,440 [WARNING] display loop: no reply
+2026-10-05 11:40:58,482 [INFO] 127.0.0.1 - - [05/Oct/2026 11:40:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:40:58,581 [WARNING] display loop: no reply
+2026-10-05 11:41:01,710 [WARNING] display loop: no reply
+2026-10-05 11:41:02,177 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:04,852 [WARNING] display loop: no reply
+2026-10-05 11:41:06,501 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:07,992 [WARNING] display loop: no reply
+2026-10-05 11:41:10,180 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:11,122 [WARNING] display loop: no reply
+2026-10-05 11:41:14,253 [WARNING] display loop: no reply
+2026-10-05 11:41:14,494 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:17,387 [WARNING] display loop: no reply
+2026-10-05 11:41:18,185 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:20,517 [WARNING] display loop: no reply
+2026-10-05 11:41:22,490 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:23,656 [WARNING] display loop: no reply
+2026-10-05 11:41:26,178 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:26,798 [WARNING] display loop: no reply
+2026-10-05 11:41:29,929 [WARNING] display loop: no reply
+2026-10-05 11:41:30,525 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:33,060 [WARNING] display loop: no reply
+2026-10-05 11:41:34,181 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:36,193 [WARNING] display loop: no reply
+2026-10-05 11:41:38,488 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:39,321 [WARNING] display loop: no reply
+2026-10-05 11:41:42,180 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:42,460 [WARNING] display loop: no reply
+2026-10-05 11:41:45,592 [WARNING] display loop: no reply
+2026-10-05 11:41:46,491 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:48,725 [WARNING] display loop: no reply
+2026-10-05 11:41:50,181 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:51,854 [WARNING] display loop: no reply
+2026-10-05 11:41:54,488 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:41:54,992 [WARNING] display loop: no reply
+2026-10-05 11:41:58,133 [WARNING] display loop: no reply
+2026-10-05 11:41:58,186 [INFO] 127.0.0.1 - - [05/Oct/2026 11:41:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:01,007 [WARNING] Groq returned an invalid recipe: recipe must use between 1 and 3 pumps
+2026-10-05 11:42:01,011 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:01] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:42:01,039 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:01] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:42:01,261 [WARNING] display loop: no reply
+2026-10-05 11:42:01,349 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:01,353 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:01] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:42:01,357 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:01] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:42:02,483 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:04,389 [WARNING] display loop: no reply
+2026-10-05 11:42:06,177 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:07,518 [WARNING] display loop: no reply
+2026-10-05 11:42:10,482 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:10,647 [WARNING] display loop: no reply
+2026-10-05 11:42:13,776 [WARNING] display loop: no reply
+2026-10-05 11:42:14,176 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:16,906 [WARNING] display loop: no reply
+2026-10-05 11:42:18,480 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:20,034 [WARNING] display loop: no reply
+2026-10-05 11:42:20,141 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:42:20,144 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:20] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:42:20,171 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:20] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:42:20,481 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:20] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:20,485 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:20] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:42:20,490 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:20] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:42:22,483 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:23,164 [WARNING] display loop: no reply
+2026-10-05 11:42:26,177 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:26,294 [WARNING] display loop: no reply
+2026-10-05 11:42:29,422 [WARNING] display loop: no reply
+2026-10-05 11:42:30,494 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:32,559 [WARNING] display loop: no reply
+2026-10-05 11:42:34,175 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:35,687 [WARNING] display loop: no reply
+2026-10-05 11:42:38,175 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:38,817 [WARNING] display loop: no reply
+2026-10-05 11:42:41,951 [WARNING] display loop: no reply
+2026-10-05 11:42:42,483 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:45,082 [WARNING] display loop: no reply
+2026-10-05 11:42:46,484 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:48,220 [WARNING] display loop: no reply
+2026-10-05 11:42:50,483 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:51,361 [WARNING] display loop: no reply
+2026-10-05 11:42:52,557 [WARNING] Groq connection failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>
+2026-10-05 11:42:52,559 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:52] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:42:52,901 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:52] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:42:52,904 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:52] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:52,907 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:52] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:42:52,915 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:52] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:42:54,174 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:42:54,501 [WARNING] display loop: no reply
+2026-10-05 11:42:57,639 [WARNING] display loop: no reply
+2026-10-05 11:42:58,493 [INFO] 127.0.0.1 - - [05/Oct/2026 11:42:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:00,781 [WARNING] display loop: no reply
+2026-10-05 11:43:02,175 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:03,918 [WARNING] display loop: no reply
+2026-10-05 11:43:06,488 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:07,051 [WARNING] display loop: no reply
+2026-10-05 11:43:08,061 [WARNING] Groq API request failed with HTTP 400
+2026-10-05 11:43:08,066 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:08] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:43:08,405 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:08] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:43:08,408 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:08] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:43:08,413 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:08] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:43:08,468 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:10,175 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:10,179 [WARNING] display loop: no reply
+2026-10-05 11:43:13,321 [WARNING] display loop: no reply
+2026-10-05 11:43:14,491 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:16,456 [WARNING] display loop: no reply
+2026-10-05 11:43:18,179 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:19,594 [WARNING] display loop: no reply
+2026-10-05 11:43:22,720 [WARNING] display loop: no reply
+2026-10-05 11:43:22,989 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:25,852 [WARNING] display loop: no reply
+2026-10-05 11:43:26,682 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:28,994 [WARNING] display loop: no reply
+2026-10-05 11:43:30,989 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:32,132 [WARNING] display loop: no reply
+2026-10-05 11:43:34,683 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:35,273 [WARNING] display loop: no reply
+2026-10-05 11:43:38,408 [WARNING] display loop: no reply
+2026-10-05 11:43:39,002 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:41,543 [WARNING] display loop: no reply
+2026-10-05 11:43:42,691 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:44,675 [WARNING] display loop: no reply
+2026-10-05 11:43:47,002 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:47] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:47,806 [WARNING] display loop: no reply
+2026-10-05 11:43:50,681 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:50,946 [WARNING] display loop: no reply
+2026-10-05 11:43:54,078 [WARNING] display loop: no reply
+2026-10-05 11:43:55,007 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:43:57,213 [WARNING] display loop: no reply
+2026-10-05 11:43:58,688 [INFO] 127.0.0.1 - - [05/Oct/2026 11:43:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:00,343 [WARNING] display loop: no reply
+2026-10-05 11:44:02,988 [INFO] 127.0.0.1 - - [05/Oct/2026 11:44:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:03,485 [WARNING] display loop: no reply
+2026-10-05 11:44:06,620 [WARNING] display loop: no reply
+2026-10-05 11:44:06,690 [INFO] 127.0.0.1 - - [05/Oct/2026 11:44:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:09,757 [WARNING] display loop: no reply
+2026-10-05 11:44:10,992 [INFO] 127.0.0.1 - - [05/Oct/2026 11:44:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:12,892 [WARNING] display loop: no reply
+2026-10-05 11:44:14,688 [INFO] 127.0.0.1 - - [05/Oct/2026 11:44:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:16,031 [WARNING] display loop: no reply
+2026-10-05 11:44:18,993 [INFO] 127.0.0.1 - - [05/Oct/2026 11:44:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:44:19,164 [WARNING] display loop: no reply
+2026-10-05 11:44:22,294 [WARNING] display loop: no reply
+2026-10-05 11:44:25,433 [WARNING] display loop: no reply
+2026-10-05 11:44:28,566 [WARNING] display loop: no reply
+2026-10-05 11:44:31,694 [WARNING] display loop: no reply
+2026-10-05 11:44:34,823 [WARNING] display loop: no reply
+2026-10-05 11:44:37,954 [WARNING] display loop: no reply
+2026-10-05 11:44:41,091 [WARNING] display loop: no reply
+2026-10-05 11:44:44,230 [WARNING] display loop: no reply
+2026-10-05 11:44:47,359 [WARNING] display loop: no reply
+2026-10-05 11:44:50,495 [WARNING] display loop: no reply
+2026-10-05 11:45:06,223 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:45:06,224 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:45:06,262 [INFO] LCD display controller ready: /display
+2026-10-05 11:45:06,262 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:45:06,289 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:45:06,289 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:45:08,328 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:45:09,944 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:09] "GET / HTTP/1.1" 200 -
+2026-10-05 11:45:10,228 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:10,338 [WARNING] display loop: no reply
+2026-10-05 11:45:10,635 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:45:13,474 [WARNING] display loop: no reply
+2026-10-05 11:45:14,499 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:16,607 [WARNING] display loop: no reply
+2026-10-05 11:45:18,494 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:19,736 [WARNING] display loop: no reply
+2026-10-05 11:45:22,494 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:22,864 [WARNING] display loop: no reply
+2026-10-05 11:45:23,126 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:23] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 11:45:25,993 [WARNING] display loop: no reply
+2026-10-05 11:45:26,191 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:27,324 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:27] "POST /ai/voice-stream HTTP/1.1" 200 -
+2026-10-05 11:45:28,430 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:45:29,122 [WARNING] display loop: no reply
+2026-10-05 11:45:30,493 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:32,250 [WARNING] display loop: no reply
+2026-10-05 11:45:33,121 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:33] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:45:33,422 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:33,429 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:33] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:45:33,437 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:33] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:45:34,499 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:35,380 [WARNING] display loop: no reply
+2026-10-05 11:45:38,190 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:38,510 [WARNING] display loop: no reply
+2026-10-05 11:45:41,659 [WARNING] display loop: no reply
+2026-10-05 11:45:42,496 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:44,790 [WARNING] display loop: no reply
+2026-10-05 11:45:46,193 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:47,919 [WARNING] display loop: no reply
+2026-10-05 11:45:50,494 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:51,049 [WARNING] display loop: no reply
+2026-10-05 11:45:54,178 [WARNING] display loop: no reply
+2026-10-05 11:45:54,191 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:45:57,306 [WARNING] display loop: no reply
+2026-10-05 11:45:58,496 [INFO] 127.0.0.1 - - [05/Oct/2026 11:45:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:00,434 [WARNING] display loop: no reply
+2026-10-05 11:46:02,187 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:03,570 [WARNING] display loop: no reply
+2026-10-05 11:46:06,507 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:06,702 [WARNING] display loop: no reply
+2026-10-05 11:46:09,838 [WARNING] display loop: no reply
+2026-10-05 11:46:10,191 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:12,981 [WARNING] display loop: no reply
+2026-10-05 11:46:14,506 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:16,121 [WARNING] display loop: no reply
+2026-10-05 11:46:18,189 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:19,254 [WARNING] display loop: no reply
+2026-10-05 11:46:22,386 [WARNING] display loop: no reply
+2026-10-05 11:46:22,502 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:25,520 [WARNING] display loop: no reply
+2026-10-05 11:46:26,189 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:28,650 [WARNING] display loop: no reply
+2026-10-05 11:46:30,504 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:31,788 [WARNING] display loop: no reply
+2026-10-05 11:46:34,190 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:34,919 [WARNING] display loop: no reply
+2026-10-05 11:46:38,054 [WARNING] display loop: no reply
+2026-10-05 11:46:38,495 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:41,194 [WARNING] display loop: no reply
+2026-10-05 11:46:42,194 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:44,329 [WARNING] display loop: no reply
+2026-10-05 11:46:46,498 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:47,461 [WARNING] display loop: no reply
+2026-10-05 11:46:50,209 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:50,599 [WARNING] display loop: no reply
+2026-10-05 11:46:53,734 [WARNING] display loop: no reply
+2026-10-05 11:46:54,508 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:56,867 [WARNING] display loop: no reply
+2026-10-05 11:46:58,686 [INFO] 127.0.0.1 - - [05/Oct/2026 11:46:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:46:59,998 [WARNING] display loop: no reply
+2026-10-05 11:47:02,986 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:03,138 [WARNING] display loop: no reply
+2026-10-05 11:47:06,276 [WARNING] display loop: no reply
+2026-10-05 11:47:06,689 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:09,404 [WARNING] display loop: no reply
+2026-10-05 11:47:11,002 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:12,545 [WARNING] display loop: no reply
+2026-10-05 11:47:14,189 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:15,674 [WARNING] display loop: no reply
+2026-10-05 11:47:18,505 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:18,815 [WARNING] display loop: no reply
+2026-10-05 11:47:21,944 [WARNING] display loop: no reply
+2026-10-05 11:47:22,190 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:25,086 [WARNING] display loop: no reply
+2026-10-05 11:47:26,992 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:28,224 [WARNING] display loop: no reply
+2026-10-05 11:47:30,691 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:31,367 [WARNING] display loop: no reply
+2026-10-05 11:47:34,502 [WARNING] display loop: no reply
+2026-10-05 11:47:34,989 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:37,634 [WARNING] display loop: no reply
+2026-10-05 11:47:38,684 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:40,770 [WARNING] display loop: no reply
+2026-10-05 11:47:42,989 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:43,911 [WARNING] display loop: no reply
+2026-10-05 11:47:46,231 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:47,049 [WARNING] display loop: no reply
+2026-10-05 11:47:50,182 [WARNING] display loop: no reply
+2026-10-05 11:47:50,992 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:53,314 [WARNING] display loop: no reply
+2026-10-05 11:47:54,687 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:56,445 [WARNING] display loop: no reply
+2026-10-05 11:47:59,005 [INFO] 127.0.0.1 - - [05/Oct/2026 11:47:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:47:59,573 [WARNING] display loop: no reply
+2026-10-05 11:48:02,684 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:02,710 [WARNING] display loop: no reply
+2026-10-05 11:48:05,842 [WARNING] display loop: no reply
+2026-10-05 11:48:06,990 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:08,982 [WARNING] display loop: no reply
+2026-10-05 11:48:10,690 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:12,118 [WARNING] display loop: no reply
+2026-10-05 11:48:14,995 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:15,260 [WARNING] display loop: no reply
+2026-10-05 11:48:18,396 [WARNING] display loop: no reply
+2026-10-05 11:48:18,688 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:21,526 [WARNING] display loop: no reply
+2026-10-05 11:48:23,009 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:24,665 [WARNING] display loop: no reply
+2026-10-05 11:48:26,692 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:27,806 [WARNING] display loop: no reply
+2026-10-05 11:48:30,937 [WARNING] display loop: no reply
+2026-10-05 11:48:31,006 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:31] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:34,079 [WARNING] display loop: no reply
+2026-10-05 11:48:34,691 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:37,221 [WARNING] display loop: no reply
+2026-10-05 11:48:38,986 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:40,355 [WARNING] display loop: no reply
+2026-10-05 11:48:42,691 [INFO] 127.0.0.1 - - [05/Oct/2026 11:48:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:48:43,490 [WARNING] display loop: no reply
+2026-10-05 11:48:46,622 [WARNING] display loop: no reply
+2026-10-05 11:48:49,749 [WARNING] display loop: no reply
+2026-10-05 11:48:52,877 [WARNING] display loop: no reply
+2026-10-05 11:48:56,009 [WARNING] display loop: no reply
+2026-10-05 11:48:59,145 [WARNING] display loop: no reply
+2026-10-05 11:49:02,283 [WARNING] display loop: no reply
+2026-10-05 11:49:05,423 [WARNING] display loop: no reply
+2026-10-05 11:49:06,999 [INFO] 127.0.0.1 - - [05/Oct/2026 11:49:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:49:08,559 [WARNING] display loop: no reply
+2026-10-05 11:49:11,687 [WARNING] display loop: no reply
+2026-10-05 11:49:14,829 [WARNING] display loop: no reply
+2026-10-05 11:49:17,957 [WARNING] display loop: no reply
+2026-10-05 11:49:21,094 [WARNING] display loop: no reply
+2026-10-05 11:49:24,225 [WARNING] display loop: no reply
+2026-10-05 11:49:27,365 [WARNING] display loop: no reply
+2026-10-05 11:49:30,502 [WARNING] display loop: no reply
+2026-10-05 11:49:33,636 [WARNING] display loop: no reply
+2026-10-05 11:49:36,773 [WARNING] display loop: no reply
+2026-10-05 11:49:39,904 [WARNING] display loop: no reply
+2026-10-05 11:49:43,046 [WARNING] display loop: no reply
+2026-10-05 11:49:46,186 [WARNING] display loop: no reply
+2026-10-05 11:49:49,328 [WARNING] display loop: no reply
+2026-10-05 11:49:52,459 [WARNING] display loop: no reply
+2026-10-05 11:49:55,591 [WARNING] display loop: no reply
+2026-10-05 11:49:58,728 [WARNING] display loop: no reply
+2026-10-05 11:50:01,859 [WARNING] display loop: no reply
+2026-10-05 11:50:04,988 [WARNING] display loop: no reply
+2026-10-05 11:50:06,688 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:08,118 [WARNING] display loop: no reply
+2026-10-05 11:50:11,252 [WARNING] display loop: no reply
+2026-10-05 11:50:14,391 [WARNING] display loop: no reply
+2026-10-05 11:50:17,533 [WARNING] display loop: no reply
+2026-10-05 11:50:20,662 [WARNING] display loop: no reply
+2026-10-05 11:50:37,650 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:50:37,652 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:50:37,717 [INFO] LCD display controller ready: /display
+2026-10-05 11:50:37,718 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:50:37,774 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:50:37,775 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:50:39,796 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:50:41,800 [WARNING] display loop: no reply
+2026-10-05 11:50:42,062 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:42] "GET / HTTP/1.1" 200 -
+2026-10-05 11:50:42,364 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:42,800 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:50:44,941 [WARNING] display loop: no reply
+2026-10-05 11:50:46,662 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:48,072 [WARNING] display loop: no reply
+2026-10-05 11:50:50,649 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:51,201 [WARNING] display loop: no reply
+2026-10-05 11:50:54,331 [WARNING] display loop: no reply
+2026-10-05 11:50:54,649 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:57,458 [WARNING] display loop: no reply
+2026-10-05 11:50:57,528 [WARNING] Groq returned an invalid recipe: recipe must use between 1 and 3 pumps
+2026-10-05 11:50:57,531 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:57] "[35m[1mPOST /ai/recipe HTTP/1.1[0m" 502 -
+2026-10-05 11:50:57,870 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:57] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:50:57,876 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:57] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:50:57,873 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:50:57,879 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:57] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:50:58,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:50:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:00,586 [WARNING] display loop: no reply
+2026-10-05 11:51:02,650 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:03,715 [WARNING] display loop: no reply
+2026-10-05 11:51:06,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:06,844 [WARNING] display loop: no reply
+2026-10-05 11:51:09,975 [WARNING] display loop: no reply
+2026-10-05 11:51:10,647 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:13,104 [WARNING] display loop: no reply
+2026-10-05 11:51:14,347 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:16,231 [WARNING] display loop: no reply
+2026-10-05 11:51:18,651 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:19,360 [WARNING] display loop: no reply
+2026-10-05 11:51:22,348 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:22,502 [WARNING] display loop: no reply
+2026-10-05 11:51:25,629 [WARNING] display loop: no reply
+2026-10-05 11:51:26,661 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:28,763 [WARNING] display loop: no reply
+2026-10-05 11:51:30,663 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:31,522 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:31] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 11:51:31,905 [WARNING] display loop: no reply
+2026-10-05 11:51:34,080 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 11:51:34,082 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "[35m[1mPOST /ai/voice-stream HTTP/1.1[0m" 502 -
+2026-10-05 11:51:34,105 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:51:34,413 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:34,416 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:51:34,420 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:51:34,732 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:34,766 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:51:34,768 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:51:34,776 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:34] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:51:35,036 [WARNING] display loop: no reply
+2026-10-05 11:51:35,057 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:38,169 [WARNING] display loop: no reply
+2026-10-05 11:51:38,650 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:41,307 [WARNING] display loop: no reply
+2026-10-05 11:51:42,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:44,444 [WARNING] display loop: no reply
+2026-10-05 11:51:46,658 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:47,579 [WARNING] display loop: no reply
+2026-10-05 11:51:50,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:50,709 [WARNING] display loop: no reply
+2026-10-05 11:51:53,853 [WARNING] display loop: no reply
+2026-10-05 11:51:54,648 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:51:56,986 [WARNING] display loop: no reply
+2026-10-05 11:51:58,344 [INFO] 127.0.0.1 - - [05/Oct/2026 11:51:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:52:00,121 [WARNING] display loop: no reply
+2026-10-05 11:52:02,663 [INFO] 127.0.0.1 - - [05/Oct/2026 11:52:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:53:54,102 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 11:53:54,104 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 11:53:54,180 [INFO] LCD display controller ready: /display
+2026-10-05 11:53:54,180 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 11:53:54,222 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 11:53:54,223 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 11:53:56,242 [INFO] Arduino link up: Serial port COM3
+2026-10-05 11:53:58,176 [INFO] 127.0.0.1 - - [05/Oct/2026 11:53:58] "GET / HTTP/1.1" 200 -
+2026-10-05 11:53:58,256 [WARNING] display loop: no reply
+2026-10-05 11:53:58,335 [INFO] 127.0.0.1 - - [05/Oct/2026 11:53:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:53:58,655 [INFO] 127.0.0.1 - - [05/Oct/2026 11:53:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:54:01,386 [WARNING] display loop: no reply
+2026-10-05 11:54:02,647 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:04,527 [WARNING] display loop: no reply
+2026-10-05 11:54:06,628 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:07,630 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:07] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 11:54:07,656 [WARNING] display loop: no reply
+2026-10-05 11:54:10,090 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:10] "POST /ai/voice-stream HTTP/1.1" 200 -
+2026-10-05 11:54:10,324 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:10,737 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 11:54:10,786 [WARNING] display loop: no reply
+2026-10-05 11:54:13,915 [WARNING] display loop: no reply
+2026-10-05 11:54:14,625 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:17,044 [WARNING] display loop: no reply
+2026-10-05 11:54:18,320 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:20,174 [WARNING] display loop: no reply
+2026-10-05 11:54:22,626 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:23,304 [WARNING] display loop: no reply
+2026-10-05 11:54:26,320 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:26,433 [WARNING] display loop: no reply
+2026-10-05 11:54:29,562 [WARNING] display loop: no reply
+2026-10-05 11:54:30,623 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:32,691 [WARNING] display loop: no reply
+2026-10-05 11:54:34,171 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:34] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 11:54:34,480 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:34,483 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:34] "GET /status HTTP/1.1" 200 -
+2026-10-05 11:54:34,486 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:34] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 11:54:34,798 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:35,821 [WARNING] display loop: no reply
+2026-10-05 11:54:38,628 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:38,949 [WARNING] display loop: no reply
+2026-10-05 11:54:42,079 [WARNING] display loop: no reply
+2026-10-05 11:54:42,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:45,208 [WARNING] display loop: no reply
+2026-10-05 11:54:46,626 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:48,336 [WARNING] display loop: no reply
+2026-10-05 11:54:50,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:51,464 [WARNING] display loop: no reply
+2026-10-05 11:54:54,592 [WARNING] display loop: no reply
+2026-10-05 11:54:54,622 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:54:57,720 [WARNING] display loop: no reply
+2026-10-05 11:54:58,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:54:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:00,849 [WARNING] display loop: no reply
+2026-10-05 11:55:02,626 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:03,976 [WARNING] display loop: no reply
+2026-10-05 11:55:06,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:07,106 [WARNING] display loop: no reply
+2026-10-05 11:55:10,246 [WARNING] display loop: no reply
+2026-10-05 11:55:10,635 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:13,376 [WARNING] display loop: no reply
+2026-10-05 11:55:14,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:16,507 [WARNING] display loop: no reply
+2026-10-05 11:55:18,633 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:19,635 [WARNING] display loop: no reply
+2026-10-05 11:55:22,316 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:22,773 [WARNING] display loop: no reply
+2026-10-05 11:55:25,904 [WARNING] display loop: no reply
+2026-10-05 11:55:26,635 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:29,038 [WARNING] display loop: no reply
+2026-10-05 11:55:30,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:32,173 [WARNING] display loop: no reply
+2026-10-05 11:55:34,623 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:35,313 [WARNING] display loop: no reply
+2026-10-05 11:55:38,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:38,452 [WARNING] display loop: no reply
+2026-10-05 11:55:41,581 [WARNING] display loop: no reply
+2026-10-05 11:55:42,626 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:44,711 [WARNING] display loop: no reply
+2026-10-05 11:55:46,320 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:47,842 [WARNING] display loop: no reply
+2026-10-05 11:55:50,628 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:50,977 [WARNING] display loop: no reply
+2026-10-05 11:55:54,109 [WARNING] display loop: no reply
+2026-10-05 11:55:54,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:55:57,248 [WARNING] display loop: no reply
+2026-10-05 11:55:58,628 [INFO] 127.0.0.1 - - [05/Oct/2026 11:55:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:00,390 [WARNING] display loop: no reply
+2026-10-05 11:56:02,320 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:03,527 [WARNING] display loop: no reply
+2026-10-05 11:56:06,622 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:06,665 [WARNING] display loop: no reply
+2026-10-05 11:56:09,794 [WARNING] display loop: no reply
+2026-10-05 11:56:10,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:12,936 [WARNING] display loop: no reply
+2026-10-05 11:56:14,633 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:16,067 [WARNING] display loop: no reply
+2026-10-05 11:56:18,316 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:19,207 [WARNING] display loop: no reply
+2026-10-05 11:56:22,348 [WARNING] display loop: no reply
+2026-10-05 11:56:22,634 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:25,483 [WARNING] display loop: no reply
+2026-10-05 11:56:26,320 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:28,614 [WARNING] display loop: no reply
+2026-10-05 11:56:30,630 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:31,748 [WARNING] display loop: no reply
+2026-10-05 11:56:34,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:34,880 [WARNING] display loop: no reply
+2026-10-05 11:56:38,011 [WARNING] display loop: no reply
+2026-10-05 11:56:38,633 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:41,153 [WARNING] display loop: no reply
+2026-10-05 11:56:42,319 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 11:56:44,285 [WARNING] display loop: no reply
+2026-10-05 11:56:46,637 [INFO] 127.0.0.1 - - [05/Oct/2026 11:56:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:08,207 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 12:50:08,208 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 12:50:08,294 [INFO] LCD display controller ready: /display
+2026-10-05 12:50:08,294 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 12:50:08,360 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 12:50:08,361 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 12:50:09,289 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:09] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 12:50:10,012 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 12:50:10,366 [INFO] Arduino link up: Serial port COM3
+2026-10-05 12:50:10,370 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:12,373 [WARNING] display loop: no reply
+2026-10-05 12:50:13,986 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:15,504 [WARNING] display loop: no reply
+2026-10-05 12:50:17,670 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:18,635 [WARNING] display loop: no reply
+2026-10-05 12:50:21,764 [WARNING] display loop: no reply
+2026-10-05 12:50:21,973 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:21] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:24,903 [WARNING] display loop: no reply
+2026-10-05 12:50:25,668 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:28,038 [WARNING] display loop: no reply
+2026-10-05 12:50:29,987 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:31,173 [WARNING] display loop: no reply
+2026-10-05 12:50:33,667 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:34,311 [WARNING] display loop: no reply
+2026-10-05 12:50:37,460 [WARNING] display loop: no reply
+2026-10-05 12:50:37,972 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:40,550 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 12:50:40,554 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:40] "[35m[1mPOST /ai/chat HTTP/1.1[0m" 502 -
+2026-10-05 12:50:40,589 [WARNING] display loop: no reply
+2026-10-05 12:50:40,888 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:40] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:50:40,890 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:40,891 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:40] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:50:40,905 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:40] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:50:41,665 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:43,833 [WARNING] display loop: no reply
+2026-10-05 12:50:45,964 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:46,964 [WARNING] display loop: no reply
+2026-10-05 12:50:49,662 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:50,091 [WARNING] display loop: no reply
+2026-10-05 12:50:53,218 [WARNING] display loop: no reply
+2026-10-05 12:50:53,963 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:56,346 [WARNING] display loop: no reply
+2026-10-05 12:50:57,659 [INFO] 127.0.0.1 - - [05/Oct/2026 12:50:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:50:59,473 [WARNING] display loop: no reply
+2026-10-05 12:51:01,962 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:02,600 [WARNING] display loop: no reply
+2026-10-05 12:51:05,660 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:05,730 [WARNING] display loop: no reply
+2026-10-05 12:51:06,873 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:51:06,874 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:06,875 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:51:06,876 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:51:06,882 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /ai/models?task=chat HTTP/1.1" 200 -
+2026-10-05 12:51:06,886 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:06] "GET /ai/models?task=recipe HTTP/1.1" 200 -
+2026-10-05 12:51:08,856 [WARNING] display loop: no reply
+2026-10-05 12:51:09,969 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:11,988 [WARNING] display loop: no reply
+2026-10-05 12:51:13,659 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:15,129 [WARNING] display loop: no reply
+2026-10-05 12:51:17,973 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:18,264 [WARNING] display loop: no reply
+2026-10-05 12:51:21,406 [WARNING] display loop: no reply
+2026-10-05 12:51:21,657 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:21] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:24,541 [WARNING] display loop: no reply
+2026-10-05 12:51:25,965 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:27,670 [WARNING] display loop: no reply
+2026-10-05 12:51:29,657 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:30,800 [WARNING] display loop: no reply
+2026-10-05 12:51:32,249 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:32] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 12:51:32,267 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:32] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:51:32,587 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:32,587 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:32] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:51:32,590 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:32] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:51:33,942 [WARNING] display loop: no reply
+2026-10-05 12:51:33,963 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:36,581 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:36] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 12:51:36,898 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:36] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:51:36,902 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:36] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:36,905 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:36] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:51:36,907 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:36] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:51:37,080 [WARNING] display loop: no reply
+2026-10-05 12:51:37,658 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:40,208 [WARNING] display loop: no reply
+2026-10-05 12:51:41,971 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:43,348 [WARNING] display loop: no reply
+2026-10-05 12:51:45,659 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:46,476 [WARNING] display loop: no reply
+2026-10-05 12:51:48,824 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:48] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 12:51:48,839 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:48] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:51:49,153 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:49,154 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:49] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:51:49,155 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:49] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:51:49,616 [WARNING] display loop: no reply
+2026-10-05 12:51:49,981 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:52,748 [WARNING] display loop: no reply
+2026-10-05 12:51:53,662 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:55,879 [WARNING] display loop: no reply
+2026-10-05 12:51:57,965 [INFO] 127.0.0.1 - - [05/Oct/2026 12:51:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:51:59,012 [WARNING] display loop: no reply
+2026-10-05 12:52:01,658 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:02,141 [WARNING] display loop: no reply
+2026-10-05 12:52:05,274 [WARNING] display loop: no reply
+2026-10-05 12:52:05,969 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:07,946 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:07] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 12:52:08,265 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:08] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:52:08,266 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:08,271 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:08] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:52:08,274 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:08] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:52:08,414 [WARNING] display loop: no reply
+2026-10-05 12:52:09,658 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:11,542 [WARNING] display loop: no reply
+2026-10-05 12:52:13,962 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:14,682 [WARNING] display loop: no reply
+2026-10-05 12:52:17,657 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:17,810 [WARNING] display loop: no reply
+2026-10-05 12:52:20,952 [WARNING] display loop: no reply
+2026-10-05 12:52:21,971 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:21] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:24,093 [WARNING] display loop: no reply
+2026-10-05 12:52:25,795 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:25] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 12:52:25,966 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:26,121 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:26] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 12:52:26,122 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:26] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 12:52:26,122 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:26] "GET /status HTTP/1.1" 200 -
+2026-10-05 12:52:26,274 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:27,230 [WARNING] display loop: no reply
+2026-10-05 12:52:29,965 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:30,363 [WARNING] display loop: no reply
+2026-10-05 12:52:33,492 [WARNING] display loop: no reply
+2026-10-05 12:52:33,657 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:36,627 [WARNING] display loop: no reply
+2026-10-05 12:52:37,965 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:39,756 [WARNING] display loop: no reply
+2026-10-05 12:52:41,658 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:42,883 [WARNING] display loop: no reply
+2026-10-05 12:52:45,970 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:46,019 [WARNING] display loop: no reply
+2026-10-05 12:52:49,162 [WARNING] display loop: no reply
+2026-10-05 12:52:49,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:52,300 [WARNING] display loop: no reply
+2026-10-05 12:52:53,971 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:55,441 [WARNING] display loop: no reply
+2026-10-05 12:52:57,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:52:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:52:58,576 [WARNING] display loop: no reply
+2026-10-05 12:53:01,703 [WARNING] display loop: no reply
+2026-10-05 12:53:01,969 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:04,831 [WARNING] display loop: no reply
+2026-10-05 12:53:05,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:07,967 [WARNING] display loop: no reply
+2026-10-05 12:53:09,974 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:11,106 [WARNING] display loop: no reply
+2026-10-05 12:53:13,665 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:14,235 [WARNING] display loop: no reply
+2026-10-05 12:53:17,369 [WARNING] display loop: no reply
+2026-10-05 12:53:17,975 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:20,500 [WARNING] display loop: no reply
+2026-10-05 12:53:21,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:21] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:23,634 [WARNING] display loop: no reply
+2026-10-05 12:53:25,969 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:26,772 [WARNING] display loop: no reply
+2026-10-05 12:53:29,673 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:29,904 [WARNING] display loop: no reply
+2026-10-05 12:53:33,032 [WARNING] display loop: no reply
+2026-10-05 12:53:33,975 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:36,172 [WARNING] display loop: no reply
+2026-10-05 12:53:37,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:39,301 [WARNING] display loop: no reply
+2026-10-05 12:53:41,978 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:42,440 [WARNING] display loop: no reply
+2026-10-05 12:53:45,579 [WARNING] display loop: no reply
+2026-10-05 12:53:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 12:53:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:53:48,711 [WARNING] display loop: no reply
+2026-10-05 12:53:51,842 [WARNING] display loop: no reply
+2026-10-05 12:53:54,971 [WARNING] display loop: no reply
+2026-10-05 12:53:58,110 [WARNING] display loop: no reply
+2026-10-05 12:54:01,236 [WARNING] display loop: no reply
+2026-10-05 12:54:04,371 [WARNING] display loop: no reply
+2026-10-05 12:54:07,509 [WARNING] display loop: no reply
+2026-10-05 12:54:10,639 [WARNING] display loop: no reply
+2026-10-05 12:54:13,766 [WARNING] display loop: no reply
+2026-10-05 12:54:16,904 [WARNING] display loop: no reply
+2026-10-05 12:54:20,032 [WARNING] display loop: no reply
+2026-10-05 12:54:23,162 [WARNING] display loop: no reply
+2026-10-05 12:54:26,299 [WARNING] display loop: no reply
+2026-10-05 12:54:29,428 [WARNING] display loop: no reply
+2026-10-05 12:54:32,560 [WARNING] display loop: no reply
+2026-10-05 12:54:35,697 [WARNING] display loop: no reply
+2026-10-05 12:54:38,833 [WARNING] display loop: no reply
+2026-10-05 12:54:41,969 [WARNING] display loop: no reply
+2026-10-05 12:54:45,100 [WARNING] display loop: no reply
+2026-10-05 12:54:46,992 [INFO] 127.0.0.1 - - [05/Oct/2026 12:54:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:54:48,238 [WARNING] display loop: no reply
+2026-10-05 12:54:51,378 [WARNING] display loop: no reply
+2026-10-05 12:54:54,510 [WARNING] display loop: no reply
+2026-10-05 12:54:57,650 [WARNING] display loop: no reply
+2026-10-05 12:55:00,784 [WARNING] display loop: no reply
+2026-10-05 12:55:03,921 [WARNING] display loop: no reply
+2026-10-05 12:55:07,061 [WARNING] display loop: no reply
+2026-10-05 12:55:10,196 [WARNING] display loop: no reply
+2026-10-05 12:55:13,330 [WARNING] display loop: no reply
+2026-10-05 12:55:16,461 [WARNING] display loop: no reply
+2026-10-05 12:55:19,599 [WARNING] display loop: no reply
+2026-10-05 12:55:22,729 [WARNING] display loop: no reply
+2026-10-05 12:55:25,861 [WARNING] display loop: no reply
+2026-10-05 12:55:28,988 [WARNING] display loop: no reply
+2026-10-05 12:55:32,128 [WARNING] display loop: no reply
+2026-10-05 12:55:35,258 [WARNING] display loop: no reply
+2026-10-05 12:55:38,386 [WARNING] display loop: no reply
+2026-10-05 12:55:41,515 [WARNING] display loop: no reply
+2026-10-05 12:55:44,654 [WARNING] display loop: no reply
+2026-10-05 12:55:46,677 [INFO] 127.0.0.1 - - [05/Oct/2026 12:55:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:55:47,787 [WARNING] display loop: no reply
+2026-10-05 12:55:50,918 [WARNING] display loop: no reply
+2026-10-05 12:55:54,055 [WARNING] display loop: no reply
+2026-10-05 12:55:57,192 [WARNING] display loop: no reply
+2026-10-05 12:56:00,321 [WARNING] display loop: no reply
+2026-10-05 12:56:03,451 [WARNING] display loop: no reply
+2026-10-05 12:56:06,578 [WARNING] display loop: no reply
+2026-10-05 12:56:09,708 [WARNING] display loop: no reply
+2026-10-05 12:56:12,846 [WARNING] display loop: no reply
+2026-10-05 12:56:15,980 [WARNING] display loop: no reply
+2026-10-05 12:56:19,113 [WARNING] display loop: no reply
+2026-10-05 12:56:22,249 [WARNING] display loop: no reply
+2026-10-05 12:56:25,377 [WARNING] display loop: no reply
+2026-10-05 12:56:28,514 [WARNING] display loop: no reply
+2026-10-05 12:56:31,654 [WARNING] display loop: no reply
+2026-10-05 12:56:34,782 [WARNING] display loop: no reply
+2026-10-05 12:56:37,922 [WARNING] display loop: no reply
+2026-10-05 12:56:41,055 [WARNING] display loop: no reply
+2026-10-05 12:56:44,191 [WARNING] display loop: no reply
+2026-10-05 12:56:46,988 [INFO] 127.0.0.1 - - [05/Oct/2026 12:56:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:56:47,330 [WARNING] display loop: no reply
+2026-10-05 12:56:50,460 [WARNING] display loop: no reply
+2026-10-05 12:56:53,589 [WARNING] display loop: no reply
+2026-10-05 12:56:56,725 [WARNING] display loop: no reply
+2026-10-05 12:56:59,865 [WARNING] display loop: no reply
+2026-10-05 12:57:02,996 [WARNING] display loop: no reply
+2026-10-05 12:57:06,128 [WARNING] display loop: no reply
+2026-10-05 12:57:08,102 [INFO] 127.0.0.1 - - [05/Oct/2026 12:57:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:57:09,266 [WARNING] display loop: no reply
+2026-10-05 12:57:09,975 [INFO] 127.0.0.1 - - [05/Oct/2026 12:57:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:57:12,402 [WARNING] display loop: no reply
+2026-10-05 12:57:13,666 [INFO] 127.0.0.1 - - [05/Oct/2026 12:57:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:57:15,535 [WARNING] display loop: no reply
+2026-10-05 12:57:18,670 [WARNING] display loop: no reply
+2026-10-05 12:57:21,807 [WARNING] display loop: no reply
+2026-10-05 12:57:24,938 [WARNING] display loop: no reply
+2026-10-05 12:57:28,065 [WARNING] display loop: no reply
+2026-10-05 12:57:31,196 [WARNING] display loop: no reply
+2026-10-05 12:57:34,329 [WARNING] display loop: no reply
+2026-10-05 12:57:37,469 [WARNING] display loop: no reply
+2026-10-05 12:57:40,610 [WARNING] display loop: no reply
+2026-10-05 12:57:43,741 [WARNING] display loop: no reply
+2026-10-05 12:57:46,872 [WARNING] display loop: no reply
+2026-10-05 12:57:50,002 [WARNING] display loop: no reply
+2026-10-05 12:57:51,977 [INFO] 127.0.0.1 - - [05/Oct/2026 12:57:51] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:57:53,130 [WARNING] display loop: no reply
+2026-10-05 12:57:53,673 [INFO] 127.0.0.1 - - [05/Oct/2026 12:57:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:57:56,258 [WARNING] display loop: no reply
+2026-10-05 12:57:59,385 [WARNING] display loop: no reply
+2026-10-05 12:58:02,513 [WARNING] display loop: no reply
+2026-10-05 12:58:05,653 [WARNING] display loop: no reply
+2026-10-05 12:58:08,793 [WARNING] display loop: no reply
+2026-10-05 12:58:11,929 [WARNING] display loop: no reply
+2026-10-05 12:58:15,066 [WARNING] display loop: no reply
+2026-10-05 12:58:18,203 [WARNING] display loop: no reply
+2026-10-05 12:58:21,341 [WARNING] display loop: no reply
+2026-10-05 12:58:24,474 [WARNING] display loop: no reply
+2026-10-05 12:58:27,614 [WARNING] display loop: no reply
+2026-10-05 12:58:30,753 [WARNING] display loop: no reply
+2026-10-05 12:58:33,892 [WARNING] display loop: no reply
+2026-10-05 12:58:37,022 [WARNING] display loop: no reply
+2026-10-05 12:58:40,152 [WARNING] display loop: no reply
+2026-10-05 12:58:43,293 [WARNING] display loop: no reply
+2026-10-05 12:58:46,420 [WARNING] display loop: no reply
+2026-10-05 12:58:49,558 [WARNING] display loop: no reply
+2026-10-05 12:58:52,687 [WARNING] display loop: no reply
+2026-10-05 12:58:54,968 [INFO] 127.0.0.1 - - [05/Oct/2026 12:58:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:58:55,813 [WARNING] display loop: no reply
+2026-10-05 12:58:58,948 [WARNING] display loop: no reply
+2026-10-05 12:59:02,087 [WARNING] display loop: no reply
+2026-10-05 12:59:05,225 [WARNING] display loop: no reply
+2026-10-05 12:59:08,363 [WARNING] display loop: no reply
+2026-10-05 12:59:11,500 [WARNING] display loop: no reply
+2026-10-05 12:59:14,639 [WARNING] display loop: no reply
+2026-10-05 12:59:17,772 [WARNING] display loop: no reply
+2026-10-05 12:59:20,902 [WARNING] display loop: no reply
+2026-10-05 12:59:24,043 [WARNING] display loop: no reply
+2026-10-05 12:59:27,170 [WARNING] display loop: no reply
+2026-10-05 12:59:30,305 [WARNING] display loop: no reply
+2026-10-05 12:59:33,437 [WARNING] display loop: no reply
+2026-10-05 12:59:36,573 [WARNING] display loop: no reply
+2026-10-05 12:59:39,705 [WARNING] display loop: no reply
+2026-10-05 12:59:42,849 [WARNING] display loop: no reply
+2026-10-05 12:59:45,990 [WARNING] display loop: no reply
+2026-10-05 12:59:49,118 [WARNING] display loop: no reply
+2026-10-05 12:59:52,262 [WARNING] display loop: no reply
+2026-10-05 12:59:55,399 [WARNING] display loop: no reply
+2026-10-05 12:59:56,106 [INFO] 127.0.0.1 - - [05/Oct/2026 12:59:56] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 12:59:58,539 [WARNING] display loop: no reply
+2026-10-05 13:43:03,959 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 13:43:03,959 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 13:43:04,009 [INFO] LCD display controller ready: /display
+2026-10-05 13:43:04,009 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 13:43:04,045 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 13:43:04,045 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 13:43:06,061 [INFO] Arduino link up: Serial port COM3
+2026-10-05 13:43:06,674 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:06] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 13:43:06,860 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:07,043 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 13:43:08,064 [WARNING] display loop: no reply
+2026-10-05 13:43:10,754 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:11,206 [WARNING] display loop: no reply
+2026-10-05 13:43:13,010 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:13] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:43:13,011 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:13,011 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:13] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:43:13,012 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:13] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:43:14,334 [WARNING] display loop: no reply
+2026-10-05 13:43:14,743 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:17,471 [WARNING] display loop: no reply
+2026-10-05 13:43:20,602 [WARNING] display loop: no reply
+2026-10-05 13:43:29,844 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 13:43:29,845 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 13:43:29,873 [INFO] LCD display controller ready: /display
+2026-10-05 13:43:29,873 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 13:43:29,887 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 13:43:29,887 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 13:43:31,919 [INFO] Arduino link up: Serial port COM3
+2026-10-05 13:43:33,653 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:33] "[36mGET / HTTP/1.1[0m" 304 -
+2026-10-05 13:43:33,841 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:33,923 [WARNING] display loop: no reply
+2026-10-05 13:43:37,056 [WARNING] display loop: no reply
+2026-10-05 13:43:37,721 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:40,184 [WARNING] display loop: no reply
+2026-10-05 13:43:42,044 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:42] "GET / HTTP/1.1" 200 -
+2026-10-05 13:43:42,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:42,551 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 13:43:42,991 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:43,316 [WARNING] display loop: no reply
+2026-10-05 13:43:46,444 [WARNING] display loop: no reply
+2026-10-05 13:43:46,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:46,673 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:48,546 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:48] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:43:48,550 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:48] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:48,557 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:48] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:43:48,563 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:48] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:43:49,573 [WARNING] display loop: no reply
+2026-10-05 13:43:50,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:50,973 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:52,701 [WARNING] display loop: no reply
+2026-10-05 13:43:52,884 [WARNING] Groq returned an invalid completion: response did not contain text
+2026-10-05 13:43:52,886 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:52] "[35m[1mPOST /ai/voice-stream HTTP/1.1[0m" 502 -
+2026-10-05 13:43:52,894 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:52] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:43:52,895 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:52] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:43:52,896 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:52] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:43:52,897 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:52] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:54,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:54,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:55,829 [WARNING] display loop: no reply
+2026-10-05 13:43:57,894 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:57] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:43:57,895 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:57,896 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:57] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:43:57,899 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:57] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:43:58,526 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:43:58,957 [WARNING] display loop: no reply
+2026-10-05 13:43:58,970 [INFO] 127.0.0.1 - - [05/Oct/2026 13:43:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:00,688 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:00] "POST /ai/voice-stream HTTP/1.1" 200 -
+2026-10-05 13:44:00,927 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-10-05 13:44:02,085 [WARNING] display loop: no reply
+2026-10-05 13:44:02,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:02,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:03,373 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:03] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:44:03,374 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:03,375 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:03] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:44:03,378 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:03] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:44:05,214 [WARNING] display loop: no reply
+2026-10-05 13:44:06,526 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:06,970 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:07,107 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:07] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:44:07,108 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:07,112 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:07] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:44:07,114 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:07] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:44:08,342 [WARNING] display loop: no reply
+2026-10-05 13:44:08,695 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:08] "POST /ai/voice-stream HTTP/1.1" 200 -
+2026-10-05 13:44:10,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:10,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:11,471 [WARNING] display loop: no reply
+2026-10-05 13:44:14,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:14,601 [WARNING] display loop: no reply
+2026-10-05 13:44:14,973 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:17,259 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:17] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:44:17,260 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:17] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:44:17,261 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:17] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:44:17,261 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:17,728 [WARNING] display loop: no reply
+2026-10-05 13:44:18,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:18,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:20,858 [WARNING] display loop: no reply
+2026-10-05 13:44:22,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:22,972 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:23,985 [WARNING] display loop: no reply
+2026-10-05 13:44:26,085 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "POST /ai/recipe HTTP/1.1" 200 -
+2026-10-05 13:44:26,100 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:44:26,105 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:26,106 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:44:26,109 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:44:26,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:26,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:27,113 [WARNING] display loop: no reply
+2026-10-05 13:44:30,239 [WARNING] display loop: no reply
+2026-10-05 13:44:30,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:30,971 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:33,096 [INFO] SENT: FIRE 2 8000 80  -> REPLY: (no reply)
+2026-10-05 13:44:34,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:34,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:35,098 [WARNING] display loop: no reply
+2026-10-05 13:44:37,101 [INFO] SENT: STOPALL  -> REPLY: (no reply)
+2026-10-05 13:44:37,101 [ERROR] AI drink pour failed after pumps []: pump 2 did not start: no Arduino reply
+2026-10-05 13:44:37,103 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:37] "[35m[1mPOST /ai/dispense HTTP/1.1[0m" 503 -
+2026-10-05 13:44:38,522 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:38,972 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:39,104 [WARNING] display loop: no reply
+2026-10-05 13:44:42,230 [WARNING] display loop: no reply
+2026-10-05 13:44:42,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:45,358 [WARNING] display loop: no reply
+2026-10-05 13:44:46,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:46,672 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:48,489 [WARNING] display loop: no reply
+2026-10-05 13:44:50,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:51,623 [WARNING] display loop: no reply
+2026-10-05 13:44:54,327 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 13:44:54,343 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:44:54,344 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:54,345 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:44:54,347 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:44:54,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:44:54,754 [WARNING] display loop: no reply
+2026-10-05 13:44:57,886 [WARNING] display loop: no reply
+2026-10-05 13:44:58,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:44:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:01,016 [WARNING] display loop: no reply
+2026-10-05 13:45:02,523 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:04,158 [WARNING] display loop: no reply
+2026-10-05 13:45:06,524 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:07,291 [WARNING] display loop: no reply
+2026-10-05 13:45:10,433 [WARNING] display loop: no reply
+2026-10-05 13:45:10,668 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:13,560 [WARNING] display loop: no reply
+2026-10-05 13:45:14,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:16,687 [WARNING] display loop: no reply
+2026-10-05 13:45:18,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:19,821 [WARNING] display loop: no reply
+2026-10-05 13:45:22,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:22,949 [WARNING] display loop: no reply
+2026-10-05 13:45:26,084 [WARNING] display loop: no reply
+2026-10-05 13:45:26,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:29,215 [WARNING] display loop: no reply
+2026-10-05 13:45:30,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:32,353 [WARNING] display loop: no reply
+2026-10-05 13:45:34,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:35,487 [WARNING] display loop: no reply
+2026-10-05 13:45:38,617 [WARNING] display loop: no reply
+2026-10-05 13:45:38,667 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:41,749 [WARNING] display loop: no reply
+2026-10-05 13:45:42,683 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:44,887 [WARNING] display loop: no reply
+2026-10-05 13:45:46,669 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:46,981 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:48,019 [WARNING] display loop: no reply
+2026-10-05 13:45:50,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:51,154 [WARNING] display loop: no reply
+2026-10-05 13:45:54,284 [WARNING] display loop: no reply
+2026-10-05 13:45:54,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:45:57,418 [WARNING] display loop: no reply
+2026-10-05 13:45:58,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:45:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:00,548 [WARNING] display loop: no reply
+2026-10-05 13:46:02,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:03,675 [WARNING] display loop: no reply
+2026-10-05 13:46:06,678 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:06,814 [WARNING] display loop: no reply
+2026-10-05 13:46:09,947 [WARNING] display loop: no reply
+2026-10-05 13:46:13,077 [WARNING] display loop: no reply
+2026-10-05 13:46:16,205 [WARNING] display loop: no reply
+2026-10-05 13:46:19,333 [WARNING] display loop: no reply
+2026-10-05 13:46:22,461 [WARNING] display loop: no reply
+2026-10-05 13:46:25,589 [WARNING] display loop: no reply
+2026-10-05 13:46:28,731 [WARNING] display loop: no reply
+2026-10-05 13:46:31,859 [WARNING] display loop: no reply
+2026-10-05 13:46:35,001 [WARNING] display loop: no reply
+2026-10-05 13:46:38,132 [WARNING] display loop: no reply
+2026-10-05 13:46:41,272 [WARNING] display loop: no reply
+2026-10-05 13:46:44,412 [WARNING] display loop: no reply
+2026-10-05 13:46:46,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:47,540 [WARNING] display loop: no reply
+2026-10-05 13:46:50,672 [WARNING] display loop: no reply
+2026-10-05 13:46:50,978 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:53,724 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:46:53,813 [WARNING] display loop: no reply
+2026-10-05 13:46:56,952 [WARNING] display loop: no reply
+2026-10-05 13:46:58,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:46:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:00,091 [WARNING] display loop: no reply
+2026-10-05 13:47:02,672 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:03,222 [WARNING] display loop: no reply
+2026-10-05 13:47:06,352 [WARNING] display loop: no reply
+2026-10-05 13:47:06,986 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:09,494 [WARNING] display loop: no reply
+2026-10-05 13:47:10,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:12,635 [WARNING] display loop: no reply
+2026-10-05 13:47:14,993 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:15,766 [WARNING] display loop: no reply
+2026-10-05 13:47:18,668 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:18,899 [WARNING] display loop: no reply
+2026-10-05 13:47:22,026 [WARNING] display loop: no reply
+2026-10-05 13:47:22,980 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:25,164 [WARNING] display loop: no reply
+2026-10-05 13:47:26,674 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:28,293 [WARNING] display loop: no reply
+2026-10-05 13:47:30,978 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:31,427 [WARNING] display loop: no reply
+2026-10-05 13:47:34,561 [WARNING] display loop: no reply
+2026-10-05 13:47:34,672 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:37,690 [WARNING] display loop: no reply
+2026-10-05 13:47:38,977 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:40,826 [WARNING] display loop: no reply
+2026-10-05 13:47:41,729 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:43,956 [WARNING] display loop: no reply
+2026-10-05 13:47:46,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:46,980 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:47,097 [WARNING] display loop: no reply
+2026-10-05 13:47:50,234 [WARNING] display loop: no reply
+2026-10-05 13:47:50,667 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:53,377 [WARNING] display loop: no reply
+2026-10-05 13:47:54,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:56,516 [WARNING] display loop: no reply
+2026-10-05 13:47:58,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:47:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:47:59,643 [WARNING] display loop: no reply
+2026-10-05 13:48:02,770 [WARNING] display loop: no reply
+2026-10-05 13:48:02,988 [INFO] 127.0.0.1 - - [05/Oct/2026 13:48:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:48:05,899 [WARNING] display loop: no reply
+2026-10-05 13:48:06,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:48:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:48:09,040 [WARNING] display loop: no reply
+2026-10-05 13:48:10,974 [INFO] 127.0.0.1 - - [05/Oct/2026 13:48:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:51:43,677 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 13:51:43,677 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 13:51:43,702 [INFO] LCD display controller ready: /display
+2026-10-05 13:51:43,702 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 13:51:43,717 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 13:51:43,717 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 13:51:45,626 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:45] "GET / HTTP/1.1" 200 -
+2026-10-05 13:51:45,745 [INFO] Arduino link up: Serial port COM3
+2026-10-05 13:51:45,826 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:51:46,681 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:51:47,756 [WARNING] display loop: no reply
+2026-10-05 13:51:49,710 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:51:50,897 [WARNING] display loop: no reply
+2026-10-05 13:51:54,021 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:51:54,035 [WARNING] display loop: no reply
+2026-10-05 13:51:57,171 [WARNING] display loop: no reply
+2026-10-05 13:51:57,712 [INFO] 127.0.0.1 - - [05/Oct/2026 13:51:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:00,303 [WARNING] display loop: no reply
+2026-10-05 13:52:02,026 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:03,444 [WARNING] display loop: no reply
+2026-10-05 13:52:05,713 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:05] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:06,579 [WARNING] display loop: no reply
+2026-10-05 13:52:09,709 [WARNING] display loop: no reply
+2026-10-05 13:52:09,805 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:11,084 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:11] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 13:52:11,100 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:11] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:52:11,401 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:11,402 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:11] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:52:11,402 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:11] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:52:12,837 [WARNING] display loop: no reply
+2026-10-05 13:52:14,016 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:15,965 [WARNING] display loop: no reply
+2026-10-05 13:52:17,712 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:19,095 [WARNING] display loop: no reply
+2026-10-05 13:52:22,013 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:22,223 [WARNING] display loop: no reply
+2026-10-05 13:52:25,351 [WARNING] display loop: no reply
+2026-10-05 13:52:25,710 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:28,478 [WARNING] display loop: no reply
+2026-10-05 13:52:30,012 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:31,605 [WARNING] display loop: no reply
+2026-10-05 13:52:33,707 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:34,733 [WARNING] display loop: no reply
+2026-10-05 13:52:37,861 [WARNING] display loop: no reply
+2026-10-05 13:52:38,009 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:41,000 [WARNING] display loop: no reply
+2026-10-05 13:52:41,707 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:44,135 [WARNING] display loop: no reply
+2026-10-05 13:52:46,026 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:46,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:47,268 [WARNING] display loop: no reply
+2026-10-05 13:52:49,708 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:50,408 [WARNING] display loop: no reply
+2026-10-05 13:52:53,538 [WARNING] display loop: no reply
+2026-10-05 13:52:54,016 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:56,678 [WARNING] display loop: no reply
+2026-10-05 13:52:57,708 [INFO] 127.0.0.1 - - [05/Oct/2026 13:52:57] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:52:59,813 [WARNING] display loop: no reply
+2026-10-05 13:53:02,945 [WARNING] display loop: no reply
+2026-10-05 13:53:02,978 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:06,075 [WARNING] display loop: no reply
+2026-10-05 13:53:06,680 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:09,215 [WARNING] display loop: no reply
+2026-10-05 13:53:10,980 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:12,345 [WARNING] display loop: no reply
+2026-10-05 13:53:14,665 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:15,486 [WARNING] display loop: no reply
+2026-10-05 13:53:18,625 [WARNING] display loop: no reply
+2026-10-05 13:53:18,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:21,756 [WARNING] display loop: no reply
+2026-10-05 13:53:22,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:24,890 [WARNING] display loop: no reply
+2026-10-05 13:53:26,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:28,031 [WARNING] display loop: no reply
+2026-10-05 13:53:30,669 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:31,173 [WARNING] display loop: no reply
+2026-10-05 13:53:34,308 [WARNING] display loop: no reply
+2026-10-05 13:53:34,972 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:37,440 [WARNING] display loop: no reply
+2026-10-05 13:53:38,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:40,569 [WARNING] display loop: no reply
+2026-10-05 13:53:42,970 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:43,697 [WARNING] display loop: no reply
+2026-10-05 13:53:46,679 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:46,695 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:46,832 [WARNING] display loop: no reply
+2026-10-05 13:53:49,969 [WARNING] display loop: no reply
+2026-10-05 13:53:50,989 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:53,096 [WARNING] display loop: no reply
+2026-10-05 13:53:53,708 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:56,226 [WARNING] display loop: no reply
+2026-10-05 13:53:58,027 [INFO] 127.0.0.1 - - [05/Oct/2026 13:53:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:53:59,366 [WARNING] display loop: no reply
+2026-10-05 13:54:01,707 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:02,505 [WARNING] display loop: no reply
+2026-10-05 13:54:05,638 [WARNING] display loop: no reply
+2026-10-05 13:54:06,024 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:08,775 [WARNING] display loop: no reply
+2026-10-05 13:54:10,673 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:11,908 [WARNING] display loop: no reply
+2026-10-05 13:54:14,977 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:15,036 [WARNING] display loop: no reply
+2026-10-05 13:54:18,165 [WARNING] display loop: no reply
+2026-10-05 13:54:18,679 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:21,298 [WARNING] display loop: no reply
+2026-10-05 13:54:22,991 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:24,428 [WARNING] display loop: no reply
+2026-10-05 13:54:26,674 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:27,558 [WARNING] display loop: no reply
+2026-10-05 13:54:30,688 [WARNING] display loop: no reply
+2026-10-05 13:54:30,985 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:33,824 [WARNING] display loop: no reply
+2026-10-05 13:54:34,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:36,957 [WARNING] display loop: no reply
+2026-10-05 13:54:38,988 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:40,085 [WARNING] display loop: no reply
+2026-10-05 13:54:42,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:43,212 [WARNING] display loop: no reply
+2026-10-05 13:54:46,347 [WARNING] display loop: no reply
+2026-10-05 13:54:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:46,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:49,477 [WARNING] display loop: no reply
+2026-10-05 13:54:50,679 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:52,611 [WARNING] display loop: no reply
+2026-10-05 13:54:54,977 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:55,751 [WARNING] display loop: no reply
+2026-10-05 13:54:58,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:54:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:54:58,885 [WARNING] display loop: no reply
+2026-10-05 13:55:02,022 [WARNING] display loop: no reply
+2026-10-05 13:55:02,978 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:05,157 [WARNING] display loop: no reply
+2026-10-05 13:55:06,680 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:08,288 [WARNING] display loop: no reply
+2026-10-05 13:55:11,415 [WARNING] display loop: no reply
+2026-10-05 13:55:14,552 [WARNING] display loop: no reply
+2026-10-05 13:55:17,284 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:17,686 [WARNING] display loop: no reply
+2026-10-05 13:55:17,706 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:17] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:20,827 [WARNING] display loop: no reply
+2026-10-05 13:55:22,020 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:22,478 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 13:55:22,500 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:55:22,806 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:22,806 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:55:22,807 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:22] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:55:23,963 [WARNING] display loop: no reply
+2026-10-05 13:55:26,023 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:27,098 [WARNING] display loop: no reply
+2026-10-05 13:55:29,709 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:30,233 [WARNING] display loop: no reply
+2026-10-05 13:55:33,361 [WARNING] display loop: no reply
+2026-10-05 13:55:34,018 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:36,492 [WARNING] display loop: no reply
+2026-10-05 13:55:38,667 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:39,624 [WARNING] display loop: no reply
+2026-10-05 13:55:42,756 [WARNING] display loop: no reply
+2026-10-05 13:55:42,992 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:45,891 [WARNING] display loop: no reply
+2026-10-05 13:55:46,673 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:46,674 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:49,029 [WARNING] display loop: no reply
+2026-10-05 13:55:50,987 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:52,168 [WARNING] display loop: no reply
+2026-10-05 13:55:54,671 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:55:55,306 [WARNING] display loop: no reply
+2026-10-05 13:55:58,440 [WARNING] display loop: no reply
+2026-10-05 13:55:58,981 [INFO] 127.0.0.1 - - [05/Oct/2026 13:55:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:01,581 [WARNING] display loop: no reply
+2026-10-05 13:56:02,266 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:04,722 [WARNING] display loop: no reply
+2026-10-05 13:56:06,022 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:07,852 [WARNING] display loop: no reply
+2026-10-05 13:56:09,582 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:09] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 13:56:09,909 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:09] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 13:56:09,910 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:09] "GET /status HTTP/1.1" 200 -
+2026-10-05 13:56:09,913 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:09] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 13:56:09,918 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:10,174 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:10,993 [WARNING] display loop: no reply
+2026-10-05 13:56:13,707 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:13] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:14,130 [WARNING] display loop: no reply
+2026-10-05 13:56:17,259 [WARNING] display loop: no reply
+2026-10-05 13:56:18,021 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:20,395 [WARNING] display loop: no reply
+2026-10-05 13:56:22,669 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:23,535 [WARNING] display loop: no reply
+2026-10-05 13:56:26,666 [WARNING] display loop: no reply
+2026-10-05 13:56:26,977 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:29,805 [WARNING] display loop: no reply
+2026-10-05 13:56:30,675 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:32,937 [WARNING] display loop: no reply
+2026-10-05 13:56:34,982 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:36,065 [WARNING] display loop: no reply
+2026-10-05 13:56:38,672 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:39,196 [WARNING] display loop: no reply
+2026-10-05 13:56:42,325 [WARNING] display loop: no reply
+2026-10-05 13:56:42,984 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:45,466 [WARNING] display loop: no reply
+2026-10-05 13:56:45,708 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:48,599 [WARNING] display loop: no reply
+2026-10-05 13:56:50,977 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:51,738 [WARNING] display loop: no reply
+2026-10-05 13:56:54,667 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:56:54,879 [WARNING] display loop: no reply
+2026-10-05 13:56:58,009 [WARNING] display loop: no reply
+2026-10-05 13:56:58,970 [INFO] 127.0.0.1 - - [05/Oct/2026 13:56:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:01,136 [WARNING] display loop: no reply
+2026-10-05 13:57:02,670 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:04,276 [WARNING] display loop: no reply
+2026-10-05 13:57:06,982 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:07,414 [WARNING] display loop: no reply
+2026-10-05 13:57:10,556 [WARNING] display loop: no reply
+2026-10-05 13:57:10,666 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:13,695 [WARNING] display loop: no reply
+2026-10-05 13:57:14,968 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:16,832 [WARNING] display loop: no reply
+2026-10-05 13:57:18,668 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:19,964 [WARNING] display loop: no reply
+2026-10-05 13:57:22,981 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:23,104 [WARNING] display loop: no reply
+2026-10-05 13:57:26,231 [WARNING] display loop: no reply
+2026-10-05 13:57:26,666 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:29,371 [WARNING] display loop: no reply
+2026-10-05 13:57:30,980 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:32,514 [WARNING] display loop: no reply
+2026-10-05 13:57:34,665 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:35,652 [WARNING] display loop: no reply
+2026-10-05 13:57:38,783 [WARNING] display loop: no reply
+2026-10-05 13:57:38,968 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:41,917 [WARNING] display loop: no reply
+2026-10-05 13:57:42,666 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:45,058 [WARNING] display loop: no reply
+2026-10-05 13:57:46,677 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:46,969 [INFO] 127.0.0.1 - - [05/Oct/2026 13:57:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:57:48,200 [WARNING] display loop: no reply
+2026-10-05 13:57:51,336 [WARNING] display loop: no reply
+2026-10-05 13:57:54,472 [WARNING] display loop: no reply
+2026-10-05 13:57:57,613 [WARNING] display loop: no reply
+2026-10-05 13:58:00,746 [WARNING] display loop: no reply
+2026-10-05 13:58:03,887 [WARNING] display loop: no reply
+2026-10-05 13:58:07,022 [WARNING] display loop: no reply
+2026-10-05 13:58:10,156 [WARNING] display loop: no reply
+2026-10-05 13:58:13,286 [WARNING] display loop: no reply
+2026-10-05 13:58:16,412 [WARNING] display loop: no reply
+2026-10-05 13:58:19,550 [WARNING] display loop: no reply
+2026-10-05 13:58:22,692 [WARNING] display loop: no reply
+2026-10-05 13:58:25,828 [WARNING] display loop: no reply
+2026-10-05 13:58:28,965 [WARNING] display loop: no reply
+2026-10-05 13:58:32,104 [WARNING] display loop: no reply
+2026-10-05 13:58:35,244 [WARNING] display loop: no reply
+2026-10-05 13:58:38,377 [WARNING] display loop: no reply
+2026-10-05 13:58:41,515 [WARNING] display loop: no reply
+2026-10-05 13:58:44,647 [WARNING] display loop: no reply
+2026-10-05 13:58:46,666 [INFO] 127.0.0.1 - - [05/Oct/2026 13:58:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:58:46,677 [INFO] 127.0.0.1 - - [05/Oct/2026 13:58:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:58:47,786 [WARNING] display loop: no reply
+2026-10-05 13:58:50,926 [WARNING] display loop: no reply
+2026-10-05 13:58:54,066 [WARNING] display loop: no reply
+2026-10-05 13:58:57,205 [WARNING] display loop: no reply
+2026-10-05 13:59:00,342 [WARNING] display loop: no reply
+2026-10-05 13:59:03,478 [WARNING] display loop: no reply
+2026-10-05 13:59:06,610 [WARNING] display loop: no reply
+2026-10-05 13:59:09,739 [WARNING] display loop: no reply
+2026-10-05 13:59:12,869 [WARNING] display loop: no reply
+2026-10-05 13:59:16,000 [WARNING] display loop: no reply
+2026-10-05 13:59:19,131 [WARNING] display loop: no reply
+2026-10-05 13:59:22,264 [WARNING] display loop: no reply
+2026-10-05 13:59:25,397 [WARNING] display loop: no reply
+2026-10-05 13:59:28,529 [WARNING] display loop: no reply
+2026-10-05 13:59:31,660 [WARNING] display loop: no reply
+2026-10-05 13:59:34,799 [WARNING] display loop: no reply
+2026-10-05 13:59:37,941 [WARNING] display loop: no reply
+2026-10-05 13:59:41,080 [WARNING] display loop: no reply
+2026-10-05 13:59:44,209 [WARNING] display loop: no reply
+2026-10-05 13:59:46,673 [INFO] 127.0.0.1 - - [05/Oct/2026 13:59:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:59:46,982 [INFO] 127.0.0.1 - - [05/Oct/2026 13:59:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 13:59:47,349 [WARNING] display loop: no reply
+2026-10-05 13:59:50,486 [WARNING] display loop: no reply
+2026-10-05 13:59:53,627 [WARNING] display loop: no reply
+2026-10-05 13:59:56,755 [WARNING] display loop: no reply
+2026-10-05 13:59:59,888 [WARNING] display loop: no reply
+2026-10-05 14:00:03,026 [WARNING] display loop: no reply
+2026-10-05 14:00:06,168 [WARNING] display loop: no reply
+2026-10-05 14:00:09,307 [WARNING] display loop: no reply
+2026-10-05 14:00:12,436 [WARNING] display loop: no reply
+2026-10-05 14:00:15,568 [WARNING] display loop: no reply
+2026-10-05 14:00:18,697 [WARNING] display loop: no reply
+2026-10-05 14:00:21,825 [WARNING] display loop: no reply
+2026-10-05 14:00:24,957 [WARNING] display loop: no reply
+2026-10-05 14:00:28,095 [WARNING] display loop: no reply
+2026-10-05 14:00:31,235 [WARNING] display loop: no reply
+2026-10-05 14:00:34,377 [WARNING] display loop: no reply
+2026-10-05 14:00:37,507 [WARNING] display loop: no reply
+2026-10-05 14:00:40,648 [WARNING] display loop: no reply
+2026-10-05 14:00:43,782 [WARNING] display loop: no reply
+2026-10-05 14:00:46,673 [INFO] 127.0.0.1 - - [05/Oct/2026 14:00:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:00:46,675 [INFO] 127.0.0.1 - - [05/Oct/2026 14:00:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:00:46,912 [WARNING] display loop: no reply
+2026-10-05 14:00:50,052 [WARNING] display loop: no reply
+2026-10-05 14:00:53,186 [WARNING] display loop: no reply
+2026-10-05 14:00:56,322 [WARNING] display loop: no reply
+2026-10-05 14:00:59,463 [WARNING] display loop: no reply
+2026-10-05 14:01:02,598 [WARNING] display loop: no reply
+2026-10-05 14:01:05,733 [WARNING] display loop: no reply
+2026-10-05 14:01:08,872 [WARNING] display loop: no reply
+2026-10-05 14:01:12,010 [WARNING] display loop: no reply
+2026-10-05 14:01:15,150 [WARNING] display loop: no reply
+2026-10-05 14:01:18,282 [WARNING] display loop: no reply
+2026-10-05 14:01:21,411 [WARNING] display loop: no reply
+2026-10-05 14:01:24,546 [WARNING] display loop: no reply
+2026-10-05 14:01:27,682 [WARNING] display loop: no reply
+2026-10-05 14:01:30,811 [WARNING] display loop: no reply
+2026-10-05 14:01:33,949 [WARNING] display loop: no reply
+2026-10-05 14:01:37,075 [WARNING] display loop: no reply
+2026-10-05 14:01:40,208 [WARNING] display loop: no reply
+2026-10-05 14:01:43,342 [WARNING] display loop: no reply
+2026-10-05 14:01:46,470 [WARNING] display loop: no reply
+2026-10-05 14:01:46,674 [INFO] 127.0.0.1 - - [05/Oct/2026 14:01:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:01:46,984 [INFO] 127.0.0.1 - - [05/Oct/2026 14:01:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:01:49,598 [WARNING] display loop: no reply
+2026-10-05 14:01:52,735 [WARNING] display loop: no reply
+2026-10-05 14:01:55,873 [WARNING] display loop: no reply
+2026-10-05 14:01:59,014 [WARNING] display loop: no reply
+2026-10-05 14:02:02,155 [WARNING] display loop: no reply
+2026-10-05 14:02:05,296 [WARNING] display loop: no reply
+2026-10-05 14:02:08,438 [WARNING] display loop: no reply
+2026-10-05 14:02:11,572 [WARNING] display loop: no reply
+2026-10-05 14:02:14,706 [WARNING] display loop: no reply
+2026-10-05 14:02:17,845 [WARNING] display loop: no reply
+2026-10-05 14:02:20,987 [WARNING] display loop: no reply
+2026-10-05 14:02:24,124 [WARNING] display loop: no reply
+2026-10-05 14:02:27,261 [WARNING] display loop: no reply
+2026-10-05 14:02:30,404 [WARNING] display loop: no reply
+2026-10-05 14:02:33,539 [WARNING] display loop: no reply
+2026-10-05 14:02:36,673 [WARNING] display loop: no reply
+2026-10-05 14:02:39,801 [WARNING] display loop: no reply
+2026-10-05 14:02:42,944 [WARNING] display loop: no reply
+2026-10-05 14:02:46,082 [WARNING] display loop: no reply
+2026-10-05 14:02:46,679 [INFO] 127.0.0.1 - - [05/Oct/2026 14:02:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:02:46,682 [INFO] 127.0.0.1 - - [05/Oct/2026 14:02:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:02:49,224 [WARNING] display loop: no reply
+2026-10-05 14:02:52,356 [WARNING] display loop: no reply
+2026-10-05 14:02:55,492 [WARNING] display loop: no reply
+2026-10-05 14:02:58,623 [WARNING] display loop: no reply
+2026-10-05 14:03:01,763 [WARNING] display loop: no reply
+2026-10-05 14:03:04,890 [WARNING] display loop: no reply
+2026-10-05 14:03:08,024 [WARNING] display loop: no reply
+2026-10-05 14:03:11,159 [WARNING] display loop: no reply
+2026-10-05 14:03:14,294 [WARNING] display loop: no reply
+2026-10-05 14:03:17,422 [WARNING] display loop: no reply
+2026-10-05 14:03:20,561 [WARNING] display loop: no reply
+2026-10-05 14:03:23,699 [WARNING] display loop: no reply
+2026-10-05 14:03:26,827 [WARNING] display loop: no reply
+2026-10-05 14:03:29,967 [WARNING] display loop: no reply
+2026-10-05 14:03:33,106 [WARNING] display loop: no reply
+2026-10-05 14:03:36,239 [WARNING] display loop: no reply
+2026-10-05 14:03:39,373 [WARNING] display loop: no reply
+2026-10-05 14:03:42,506 [WARNING] display loop: no reply
+2026-10-05 14:03:45,636 [WARNING] display loop: no reply
+2026-10-05 14:03:46,715 [INFO] 127.0.0.1 - - [05/Oct/2026 14:03:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:03:46,992 [INFO] 127.0.0.1 - - [05/Oct/2026 14:03:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:03:48,764 [WARNING] display loop: no reply
+2026-10-05 14:03:51,899 [WARNING] display loop: no reply
+2026-10-05 14:03:55,029 [WARNING] display loop: no reply
+2026-10-05 14:03:58,172 [WARNING] display loop: no reply
+2026-10-05 14:04:01,310 [WARNING] display loop: no reply
+2026-10-05 14:04:04,447 [WARNING] display loop: no reply
+2026-10-05 14:04:07,580 [WARNING] display loop: no reply
+2026-10-05 14:04:10,712 [WARNING] display loop: no reply
+2026-10-05 14:04:13,864 [WARNING] display loop: no reply
+2026-10-05 14:04:17,004 [WARNING] display loop: no reply
+2026-10-05 14:04:20,146 [WARNING] display loop: no reply
+2026-10-05 14:04:23,277 [WARNING] display loop: no reply
+2026-10-05 14:04:26,415 [WARNING] display loop: no reply
+2026-10-05 14:04:29,547 [WARNING] display loop: no reply
+2026-10-05 14:04:32,684 [WARNING] display loop: no reply
+2026-10-05 14:04:35,825 [WARNING] display loop: no reply
+2026-10-05 14:04:38,965 [WARNING] display loop: no reply
+2026-10-05 14:04:42,099 [WARNING] display loop: no reply
+2026-10-05 14:04:45,237 [WARNING] display loop: no reply
+2026-10-05 14:04:46,677 [INFO] 127.0.0.1 - - [05/Oct/2026 14:04:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:04:46,685 [INFO] 127.0.0.1 - - [05/Oct/2026 14:04:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:04:48,367 [WARNING] display loop: no reply
+2026-10-05 14:04:51,494 [WARNING] display loop: no reply
+2026-10-05 14:04:54,626 [WARNING] display loop: no reply
+2026-10-05 14:04:57,757 [WARNING] display loop: no reply
+2026-10-05 14:05:00,886 [WARNING] display loop: no reply
+2026-10-05 14:05:04,017 [WARNING] display loop: no reply
+2026-10-05 14:05:07,144 [WARNING] display loop: no reply
+2026-10-05 14:05:10,271 [WARNING] display loop: no reply
+2026-10-05 14:05:13,412 [WARNING] display loop: no reply
+2026-10-05 14:05:16,543 [WARNING] display loop: no reply
+2026-10-05 14:05:19,673 [WARNING] display loop: no reply
+2026-10-05 14:05:22,801 [WARNING] display loop: no reply
+2026-10-05 14:05:25,931 [WARNING] display loop: no reply
+2026-10-05 14:05:29,063 [WARNING] display loop: no reply
+2026-10-05 14:05:32,200 [WARNING] display loop: no reply
+2026-10-05 14:05:35,331 [WARNING] display loop: no reply
+2026-10-05 14:05:38,459 [WARNING] display loop: no reply
+2026-10-05 14:05:41,594 [WARNING] display loop: no reply
+2026-10-05 14:05:44,722 [WARNING] display loop: no reply
+2026-10-05 14:05:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 14:05:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:05:46,987 [INFO] 127.0.0.1 - - [05/Oct/2026 14:05:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:05:47,854 [WARNING] display loop: no reply
+2026-10-05 14:05:50,993 [WARNING] display loop: no reply
+2026-10-05 14:05:54,125 [WARNING] display loop: no reply
+2026-10-05 14:05:57,265 [WARNING] display loop: no reply
+2026-10-05 14:06:00,393 [WARNING] display loop: no reply
+2026-10-05 14:06:03,535 [WARNING] display loop: no reply
+2026-10-05 14:06:06,674 [WARNING] display loop: no reply
+2026-10-05 14:06:09,818 [WARNING] display loop: no reply
+2026-10-05 14:06:12,957 [WARNING] display loop: no reply
+2026-10-05 14:06:16,086 [WARNING] display loop: no reply
+2026-10-05 14:06:19,225 [WARNING] display loop: no reply
+2026-10-05 14:06:22,357 [WARNING] display loop: no reply
+2026-10-05 14:06:25,494 [WARNING] display loop: no reply
+2026-10-05 14:06:28,630 [WARNING] display loop: no reply
+2026-10-05 14:06:31,759 [WARNING] display loop: no reply
+2026-10-05 14:06:34,889 [WARNING] display loop: no reply
+2026-10-05 14:06:38,017 [WARNING] display loop: no reply
+2026-10-05 14:06:41,148 [WARNING] display loop: no reply
+2026-10-05 14:06:44,289 [WARNING] display loop: no reply
+2026-10-05 14:06:46,672 [INFO] 127.0.0.1 - - [05/Oct/2026 14:06:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:06:46,672 [INFO] 127.0.0.1 - - [05/Oct/2026 14:06:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:06:47,423 [WARNING] display loop: no reply
+2026-10-05 14:06:50,561 [WARNING] display loop: no reply
+2026-10-05 14:06:53,698 [WARNING] display loop: no reply
+2026-10-05 14:06:56,827 [WARNING] display loop: no reply
+2026-10-05 14:06:59,964 [WARNING] display loop: no reply
+2026-10-05 14:07:03,099 [WARNING] display loop: no reply
+2026-10-05 14:07:06,234 [WARNING] display loop: no reply
+2026-10-05 14:07:09,370 [WARNING] display loop: no reply
+2026-10-05 14:07:12,496 [WARNING] display loop: no reply
+2026-10-05 14:07:15,636 [WARNING] display loop: no reply
+2026-10-05 14:07:18,763 [WARNING] display loop: no reply
+2026-10-05 14:07:21,897 [WARNING] display loop: no reply
+2026-10-05 14:07:25,025 [WARNING] display loop: no reply
+2026-10-05 14:07:28,160 [WARNING] display loop: no reply
+2026-10-05 14:07:31,289 [WARNING] display loop: no reply
+2026-10-05 14:07:34,429 [WARNING] display loop: no reply
+2026-10-05 14:07:37,557 [WARNING] display loop: no reply
+2026-10-05 14:07:40,688 [WARNING] display loop: no reply
+2026-10-05 14:07:43,826 [WARNING] display loop: no reply
+2026-10-05 14:07:46,678 [INFO] 127.0.0.1 - - [05/Oct/2026 14:07:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:07:46,954 [WARNING] display loop: no reply
+2026-10-05 14:07:46,987 [INFO] 127.0.0.1 - - [05/Oct/2026 14:07:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:07:50,086 [WARNING] display loop: no reply
+2026-10-05 14:07:53,214 [WARNING] display loop: no reply
+2026-10-05 14:07:56,355 [WARNING] display loop: no reply
+2026-10-05 14:07:59,486 [WARNING] display loop: no reply
+2026-10-05 14:08:02,624 [WARNING] display loop: no reply
+2026-10-05 14:08:05,751 [WARNING] display loop: no reply
+2026-10-05 14:08:08,893 [WARNING] display loop: no reply
+2026-10-05 14:08:12,026 [WARNING] display loop: no reply
+2026-10-05 14:08:15,157 [WARNING] display loop: no reply
+2026-10-05 14:08:18,288 [WARNING] display loop: no reply
+2026-10-05 14:08:21,425 [WARNING] display loop: no reply
+2026-10-05 14:08:24,561 [WARNING] display loop: no reply
+2026-10-05 14:08:27,695 [WARNING] display loop: no reply
+2026-10-05 14:08:30,827 [WARNING] display loop: no reply
+2026-10-05 14:08:33,968 [WARNING] display loop: no reply
+2026-10-05 14:08:37,101 [WARNING] display loop: no reply
+2026-10-05 14:08:40,242 [WARNING] display loop: no reply
+2026-10-05 14:08:43,369 [WARNING] display loop: no reply
+2026-10-05 14:08:46,510 [WARNING] display loop: no reply
+2026-10-05 14:08:46,667 [INFO] 127.0.0.1 - - [05/Oct/2026 14:08:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:08:46,672 [INFO] 127.0.0.1 - - [05/Oct/2026 14:08:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:08:49,649 [WARNING] display loop: no reply
+2026-10-05 14:08:52,787 [WARNING] display loop: no reply
+2026-10-05 14:08:55,923 [WARNING] display loop: no reply
+2026-10-05 14:08:59,050 [WARNING] display loop: no reply
+2026-10-05 14:09:02,180 [WARNING] display loop: no reply
+2026-10-05 14:09:05,309 [WARNING] display loop: no reply
+2026-10-05 14:09:08,438 [WARNING] display loop: no reply
+2026-10-05 14:09:11,573 [WARNING] display loop: no reply
+2026-10-05 14:09:14,702 [WARNING] display loop: no reply
+2026-10-05 14:09:17,843 [WARNING] display loop: no reply
+2026-10-05 14:09:20,970 [WARNING] display loop: no reply
+2026-10-05 14:09:24,109 [WARNING] display loop: no reply
+2026-10-05 14:09:27,237 [WARNING] display loop: no reply
+2026-10-05 14:09:30,370 [WARNING] display loop: no reply
+2026-10-05 14:09:33,503 [WARNING] display loop: no reply
+2026-10-05 14:09:36,631 [WARNING] display loop: no reply
+2026-10-05 14:09:39,774 [WARNING] display loop: no reply
+2026-10-05 14:09:42,901 [WARNING] display loop: no reply
+2026-10-05 14:09:46,037 [WARNING] display loop: no reply
+2026-10-05 14:09:46,675 [INFO] 127.0.0.1 - - [05/Oct/2026 14:09:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:09:46,980 [INFO] 127.0.0.1 - - [05/Oct/2026 14:09:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:09:49,165 [WARNING] display loop: no reply
+2026-10-05 14:09:52,293 [WARNING] display loop: no reply
+2026-10-05 14:09:55,431 [WARNING] display loop: no reply
+2026-10-05 14:09:58,560 [WARNING] display loop: no reply
+2026-10-05 14:10:01,697 [WARNING] display loop: no reply
+2026-10-05 14:10:04,827 [WARNING] display loop: no reply
+2026-10-05 14:10:07,957 [WARNING] display loop: no reply
+2026-10-05 14:10:11,086 [WARNING] display loop: no reply
+2026-10-05 14:10:14,215 [WARNING] display loop: no reply
+2026-10-05 14:10:17,349 [WARNING] display loop: no reply
+2026-10-05 14:10:20,482 [WARNING] display loop: no reply
+2026-10-05 14:10:23,615 [WARNING] display loop: no reply
+2026-10-05 14:10:26,751 [WARNING] display loop: no reply
+2026-10-05 14:10:29,886 [WARNING] display loop: no reply
+2026-10-05 14:10:33,027 [WARNING] display loop: no reply
+2026-10-05 14:10:36,155 [WARNING] display loop: no reply
+2026-10-05 14:10:39,282 [WARNING] display loop: no reply
+2026-10-05 14:10:42,415 [WARNING] display loop: no reply
+2026-10-05 14:10:45,552 [WARNING] display loop: no reply
+2026-10-05 14:10:46,668 [INFO] 127.0.0.1 - - [05/Oct/2026 14:10:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:10:46,669 [INFO] 127.0.0.1 - - [05/Oct/2026 14:10:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:10:48,687 [WARNING] display loop: no reply
+2026-10-05 14:10:51,815 [WARNING] display loop: no reply
+2026-10-05 14:10:54,946 [WARNING] display loop: no reply
+2026-10-05 14:10:58,084 [WARNING] display loop: no reply
+2026-10-05 14:11:01,220 [WARNING] display loop: no reply
+2026-10-05 14:11:04,357 [WARNING] display loop: no reply
+2026-10-05 14:11:07,488 [WARNING] display loop: no reply
+2026-10-05 14:11:10,619 [WARNING] display loop: no reply
+2026-10-05 14:11:13,754 [WARNING] display loop: no reply
+2026-10-05 14:11:16,887 [WARNING] display loop: no reply
+2026-10-05 14:11:20,023 [WARNING] display loop: no reply
+2026-10-05 14:11:23,164 [WARNING] display loop: no reply
+2026-10-05 14:11:26,305 [WARNING] display loop: no reply
+2026-10-05 14:11:29,434 [WARNING] display loop: no reply
+2026-10-05 14:11:32,562 [WARNING] display loop: no reply
+2026-10-05 14:11:35,693 [WARNING] display loop: no reply
+2026-10-05 14:11:38,826 [WARNING] display loop: no reply
+2026-10-05 14:11:41,956 [WARNING] display loop: no reply
+2026-10-05 14:11:45,088 [WARNING] display loop: no reply
+2026-10-05 14:11:46,681 [INFO] 127.0.0.1 - - [05/Oct/2026 14:11:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:11:46,989 [INFO] 127.0.0.1 - - [05/Oct/2026 14:11:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:11:48,227 [WARNING] display loop: no reply
+2026-10-05 14:11:51,366 [WARNING] display loop: no reply
+2026-10-05 14:11:54,501 [WARNING] display loop: no reply
+2026-10-05 14:11:57,637 [WARNING] display loop: no reply
+2026-10-05 14:12:00,773 [WARNING] display loop: no reply
+2026-10-05 14:12:03,914 [WARNING] display loop: no reply
+2026-10-05 14:12:07,042 [WARNING] display loop: no reply
+2026-10-05 14:12:10,179 [WARNING] display loop: no reply
+2026-10-05 14:12:13,311 [WARNING] display loop: no reply
+2026-10-05 14:12:16,453 [WARNING] display loop: no reply
+2026-10-05 14:12:19,583 [WARNING] display loop: no reply
+2026-10-05 14:12:22,710 [WARNING] display loop: no reply
+2026-10-05 14:12:25,843 [WARNING] display loop: no reply
+2026-10-05 14:12:28,983 [WARNING] display loop: no reply
+2026-10-05 14:12:32,117 [WARNING] display loop: no reply
+2026-10-05 14:12:35,253 [WARNING] display loop: no reply
+2026-10-05 14:12:38,385 [WARNING] display loop: no reply
+2026-10-05 14:12:41,513 [WARNING] display loop: no reply
+2026-10-05 14:12:44,653 [WARNING] display loop: no reply
+2026-10-05 14:12:46,668 [INFO] 127.0.0.1 - - [05/Oct/2026 14:12:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:12:46,669 [INFO] 127.0.0.1 - - [05/Oct/2026 14:12:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:12:47,783 [WARNING] display loop: no reply
+2026-10-05 14:12:50,924 [WARNING] display loop: no reply
+2026-10-05 14:12:54,064 [WARNING] display loop: no reply
+2026-10-05 14:12:57,203 [WARNING] display loop: no reply
+2026-10-05 14:13:00,335 [WARNING] display loop: no reply
+2026-10-05 14:13:03,476 [WARNING] display loop: no reply
+2026-10-05 14:13:06,604 [WARNING] display loop: no reply
+2026-10-05 14:13:18,282 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 14:13:18,282 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 14:13:18,313 [INFO] LCD display controller ready: /display
+2026-10-05 14:13:18,314 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 14:13:18,327 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 14:13:18,327 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 14:13:20,357 [INFO] Arduino link up: Serial port COM3
+2026-10-05 14:13:21,634 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:21] "GET / HTTP/1.1" 200 -
+2026-10-05 14:13:21,835 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:21] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:22,372 [WARNING] display loop: no reply
+2026-10-05 14:13:25,506 [WARNING] display loop: no reply
+2026-10-05 14:13:26,024 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:27,584 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:27] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:13:27,906 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:27] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:13:27,908 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:27,910 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:27] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:13:27,914 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:27] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:13:28,634 [WARNING] display loop: no reply
+2026-10-05 14:13:29,720 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:29] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:31,764 [WARNING] display loop: no reply
+2026-10-05 14:13:34,026 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:34,893 [WARNING] display loop: no reply
+2026-10-05 14:13:37,722 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:37] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:38,021 [WARNING] display loop: no reply
+2026-10-05 14:13:41,151 [WARNING] display loop: no reply
+2026-10-05 14:13:42,023 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:44,280 [WARNING] display loop: no reply
+2026-10-05 14:13:45,724 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:45] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:46,670 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:47,409 [WARNING] display loop: no reply
+2026-10-05 14:13:50,024 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:50,538 [WARNING] display loop: no reply
+2026-10-05 14:13:53,667 [WARNING] display loop: no reply
+2026-10-05 14:13:53,719 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:56,804 [WARNING] display loop: no reply
+2026-10-05 14:13:58,024 [INFO] 127.0.0.1 - - [05/Oct/2026 14:13:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:13:59,940 [WARNING] display loop: no reply
+2026-10-05 14:14:01,723 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:01] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:03,080 [WARNING] display loop: no reply
+2026-10-05 14:14:06,021 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:06] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:06,220 [WARNING] display loop: no reply
+2026-10-05 14:14:09,357 [WARNING] display loop: no reply
+2026-10-05 14:14:09,720 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:09] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:12,496 [WARNING] display loop: no reply
+2026-10-05 14:14:14,032 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:14] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:15,633 [WARNING] display loop: no reply
+2026-10-05 14:14:17,957 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:17] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:14:18,033 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:18,278 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:18] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:14:18,279 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:18] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:14:18,279 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:18] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:14:18,340 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:18,770 [WARNING] display loop: no reply
+2026-10-05 14:14:21,897 [WARNING] display loop: no reply
+2026-10-05 14:14:22,040 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:22] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:25,038 [WARNING] display loop: no reply
+2026-10-05 14:14:25,724 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:25] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:28,169 [WARNING] display loop: no reply
+2026-10-05 14:14:30,026 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:30] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:31,306 [WARNING] display loop: no reply
+2026-10-05 14:14:33,723 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:33] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:34,436 [WARNING] display loop: no reply
+2026-10-05 14:14:37,576 [WARNING] display loop: no reply
+2026-10-05 14:14:38,035 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:38] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:40,703 [WARNING] display loop: no reply
+2026-10-05 14:14:41,721 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:41] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:43,843 [WARNING] display loop: no reply
+2026-10-05 14:14:46,023 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:46,676 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:46,982 [WARNING] display loop: no reply
+2026-10-05 14:14:49,721 [INFO] 127.0.0.1 - - [05/Oct/2026 14:14:49] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:14:50,121 [WARNING] display loop: no reply
+2026-10-05 14:17:44,372 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 14:17:44,373 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 14:17:44,397 [INFO] LCD display controller ready: /display
+2026-10-05 14:17:44,397 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 14:17:44,411 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 14:17:44,411 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 14:17:46,447 [INFO] Arduino link up: Serial port COM3
+2026-10-05 14:17:46,679 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:17:47,712 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:47] "GET / HTTP/1.1" 200 -
+2026-10-05 14:17:47,895 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:47] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:17:48,450 [WARNING] display loop: no reply
+2026-10-05 14:17:51,580 [WARNING] display loop: no reply
+2026-10-05 14:17:52,095 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:52] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:17:52,746 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:52] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:17:53,098 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:53] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:17:53,098 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:53] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:17:53,099 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:53] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:17:53,100 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:53] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:17:54,708 [WARNING] display loop: no reply
+2026-10-05 14:17:55,791 [INFO] 127.0.0.1 - - [05/Oct/2026 14:17:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:17:57,837 [WARNING] display loop: no reply
+2026-10-05 14:18:00,094 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:00] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:00,965 [WARNING] display loop: no reply
+2026-10-05 14:18:03,792 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:04,093 [WARNING] display loop: no reply
+2026-10-05 14:18:07,222 [WARNING] display loop: no reply
+2026-10-05 14:18:08,096 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:08] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:10,350 [WARNING] display loop: no reply
+2026-10-05 14:18:11,793 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:11] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:13,478 [WARNING] display loop: no reply
+2026-10-05 14:18:16,092 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:16] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:16,605 [WARNING] display loop: no reply
+2026-10-05 14:18:19,190 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:18:19,523 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:18:19,524 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:18:19,526 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:19,528 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:18:19,733 [WARNING] display loop: no reply
+2026-10-05 14:18:19,790 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:19] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:22,872 [WARNING] display loop: no reply
+2026-10-05 14:18:24,096 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:24] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:26,007 [WARNING] display loop: no reply
+2026-10-05 14:18:27,790 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:27] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:29,136 [WARNING] display loop: no reply
+2026-10-05 14:18:32,095 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:32,276 [WARNING] display loop: no reply
+2026-10-05 14:18:35,404 [WARNING] display loop: no reply
+2026-10-05 14:18:35,791 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:35] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:38,543 [WARNING] display loop: no reply
+2026-10-05 14:18:40,095 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:41,684 [WARNING] display loop: no reply
+2026-10-05 14:18:42,439 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:42] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:18:42,775 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:42] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:18:42,776 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:42,779 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:42] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:18:42,780 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:42] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:18:43,790 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:43] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:44,825 [WARNING] display loop: no reply
+2026-10-05 14:18:46,680 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:47,964 [WARNING] display loop: no reply
+2026-10-05 14:18:48,107 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:48] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:51,098 [WARNING] display loop: no reply
+2026-10-05 14:18:51,790 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:51] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:54,239 [WARNING] display loop: no reply
+2026-10-05 14:18:56,095 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:56] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:18:57,376 [WARNING] display loop: no reply
+2026-10-05 14:18:59,792 [INFO] 127.0.0.1 - - [05/Oct/2026 14:18:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:00,510 [WARNING] display loop: no reply
+2026-10-05 14:19:02,465 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:02] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:19:02,484 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:02] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:19:02,799 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:02,800 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:02] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:19:02,800 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:02] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:19:03,644 [WARNING] display loop: no reply
+2026-10-05 14:19:04,098 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:04] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:06,772 [WARNING] display loop: no reply
+2026-10-05 14:19:07,791 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:09,905 [WARNING] display loop: no reply
+2026-10-05 14:19:12,985 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:12] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:13,044 [WARNING] display loop: no reply
+2026-10-05 14:19:16,178 [WARNING] display loop: no reply
+2026-10-05 14:19:16,673 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:16] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:19,319 [WARNING] display loop: no reply
+2026-10-05 14:19:20,986 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:20] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:22,460 [WARNING] display loop: no reply
+2026-10-05 14:19:24,674 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:24] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:25,598 [WARNING] display loop: no reply
+2026-10-05 14:19:28,733 [WARNING] display loop: no reply
+2026-10-05 14:19:28,979 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:28] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:31,874 [WARNING] display loop: no reply
+2026-10-05 14:19:32,666 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:32] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:35,013 [WARNING] display loop: no reply
+2026-10-05 14:19:36,979 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:36] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:38,151 [WARNING] display loop: no reply
+2026-10-05 14:19:40,677 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:40] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:41,291 [WARNING] display loop: no reply
+2026-10-05 14:19:44,425 [WARNING] display loop: no reply
+2026-10-05 14:19:44,986 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:44] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:46,678 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:47,559 [WARNING] display loop: no reply
+2026-10-05 14:19:48,679 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:48] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:50,693 [WARNING] display loop: no reply
+2026-10-05 14:19:52,982 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:52] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:53,823 [WARNING] display loop: no reply
+2026-10-05 14:19:56,668 [INFO] 127.0.0.1 - - [05/Oct/2026 14:19:56] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:19:56,956 [WARNING] display loop: no reply
+2026-10-05 14:20:00,097 [WARNING] display loop: no reply
+2026-10-05 14:20:00,978 [INFO] 127.0.0.1 - - [05/Oct/2026 14:20:00] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:20:03,230 [WARNING] display loop: no reply
+2026-10-05 14:20:04,679 [INFO] 127.0.0.1 - - [05/Oct/2026 14:20:04] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:20:06,358 [WARNING] display loop: no reply
+2026-10-05 14:20:09,489 [WARNING] display loop: no reply
+2026-10-05 14:20:12,624 [WARNING] display loop: no reply
+2026-10-05 14:20:15,759 [WARNING] display loop: no reply
+2026-10-05 14:20:18,895 [WARNING] display loop: no reply
+2026-10-05 14:20:22,022 [WARNING] display loop: no reply
+2026-10-05 14:20:25,153 [WARNING] display loop: no reply
+2026-10-05 14:20:28,284 [WARNING] display loop: no reply
+2026-10-05 14:20:31,418 [WARNING] display loop: no reply
+2026-10-05 14:20:34,547 [WARNING] display loop: no reply
+2026-10-05 14:20:37,675 [WARNING] display loop: no reply
+2026-10-05 14:20:40,805 [WARNING] display loop: no reply
+2026-10-05 14:20:43,942 [WARNING] display loop: no reply
+2026-10-05 14:20:46,677 [INFO] 127.0.0.1 - - [05/Oct/2026 14:20:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:20:46,984 [INFO] 127.0.0.1 - - [05/Oct/2026 14:20:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:20:47,074 [WARNING] display loop: no reply
+2026-10-05 14:20:50,215 [WARNING] display loop: no reply
+2026-10-05 14:20:53,356 [WARNING] display loop: no reply
+2026-10-05 14:20:56,493 [WARNING] display loop: no reply
+2026-10-05 14:20:59,632 [WARNING] display loop: no reply
+2026-10-05 14:21:02,770 [WARNING] display loop: no reply
+2026-10-05 14:21:05,903 [WARNING] display loop: no reply
+2026-10-05 14:21:09,032 [WARNING] display loop: no reply
+2026-10-05 14:21:12,167 [WARNING] display loop: no reply
+2026-10-05 14:21:15,301 [WARNING] display loop: no reply
+2026-10-05 14:21:18,440 [WARNING] display loop: no reply
+2026-10-05 14:21:21,570 [WARNING] display loop: no reply
+2026-10-05 14:21:24,702 [WARNING] display loop: no reply
+2026-10-05 14:21:27,835 [WARNING] display loop: no reply
+2026-10-05 14:21:30,968 [WARNING] display loop: no reply
+2026-10-05 14:21:34,108 [WARNING] display loop: no reply
+2026-10-05 14:21:37,247 [WARNING] display loop: no reply
+2026-10-05 14:21:40,375 [WARNING] display loop: no reply
+2026-10-05 14:22:43,190 [INFO] Loaded Groq API key from the portable application folder.
+2026-10-05 14:22:43,191 [INFO] Loaded ElevenLabs API key from the portable application folder.
+2026-10-05 14:22:43,222 [INFO] LCD display controller ready: /display
+2026-10-05 14:22:43,223 [INFO] Starting pump backend on http://127.0.0.1:5005  (transport: serial)
+2026-10-05 14:22:43,248 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5005
+2026-10-05 14:22:43,249 [INFO] [33mPress CTRL+C to quit[0m
+2026-10-05 14:22:45,265 [INFO] Arduino link up: Serial port COM3
+2026-10-05 14:22:46,653 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:46] "GET / HTTP/1.1" 200 -
+2026-10-05 14:22:46,683 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:46,835 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:47,277 [WARNING] display loop: no reply
+2026-10-05 14:22:50,405 [WARNING] display loop: no reply
+2026-10-05 14:22:50,448 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:50] "POST /ai/chat HTTP/1.1" 200 -
+2026-10-05 14:22:50,800 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:50] "GET /ai/status HTTP/1.1" 200 -
+2026-10-05 14:22:50,801 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:50,801 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:50] "GET /flow-status HTTP/1.1" 200 -
+2026-10-05 14:22:50,802 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:50] "GET /status HTTP/1.1" 200 -
+2026-10-05 14:22:51,051 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:51] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:53,532 [WARNING] display loop: no reply
+2026-10-05 14:22:54,768 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:54] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:56,660 [WARNING] display loop: no reply
+2026-10-05 14:22:59,067 [INFO] 127.0.0.1 - - [05/Oct/2026 14:22:59] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:22:59,789 [WARNING] display loop: no reply
+2026-10-05 14:23:02,768 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:02] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:02,917 [WARNING] display loop: no reply
+2026-10-05 14:23:06,045 [WARNING] display loop: no reply
+2026-10-05 14:23:07,071 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:07] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:09,173 [WARNING] display loop: no reply
+2026-10-05 14:23:10,765 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:10] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:12,300 [WARNING] display loop: no reply
+2026-10-05 14:23:15,070 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:15] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:15,430 [WARNING] display loop: no reply
+2026-10-05 14:23:18,559 [WARNING] display loop: no reply
+2026-10-05 14:23:18,769 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:18] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:21,694 [WARNING] display loop: no reply
+2026-10-05 14:23:23,077 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:23] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:24,833 [WARNING] display loop: no reply
+2026-10-05 14:23:26,766 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:26] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:27,966 [WARNING] display loop: no reply
+2026-10-05 14:23:31,077 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:31] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:31,105 [WARNING] display loop: no reply
+2026-10-05 14:23:34,237 [WARNING] display loop: no reply
+2026-10-05 14:23:34,770 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:34] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:37,374 [WARNING] display loop: no reply
+2026-10-05 14:23:39,071 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:39] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:40,504 [WARNING] display loop: no reply
+2026-10-05 14:23:42,769 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:42] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:43,633 [WARNING] display loop: no reply
+2026-10-05 14:23:46,683 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:46] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:46,770 [WARNING] display loop: no reply
+2026-10-05 14:23:47,069 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:47] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:49,906 [WARNING] display loop: no reply
+2026-10-05 14:23:50,768 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:50] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:53,039 [WARNING] display loop: no reply
+2026-10-05 14:23:55,068 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:55] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:56,167 [WARNING] display loop: no reply
+2026-10-05 14:23:58,769 [INFO] 127.0.0.1 - - [05/Oct/2026 14:23:58] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:23:59,309 [WARNING] display loop: no reply
+2026-10-05 14:24:02,451 [WARNING] display loop: no reply
+2026-10-05 14:24:03,086 [INFO] 127.0.0.1 - - [05/Oct/2026 14:24:03] "GET /hardware HTTP/1.1" 200 -
+2026-10-05 14:24:05,589 [WARNING] display loop: no reply
